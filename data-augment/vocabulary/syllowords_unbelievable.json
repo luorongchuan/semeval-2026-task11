@@ -1,0 +1,3354 @@
+{
+    "AA1": [
+    ["felines", "cats", "dogs"],
+    ["canines", "dogs", "cats"],
+    ["mammals", "cows", "birds"],
+    ["winged animals", "birds", "cows"],
+    ["mortals", "animals", "cars"],
+    ["vehicles", "cars", "animals"],
+    ["watercrafts", "warships", "planes"],
+    ["aircrafts", "planes", "warships"],
+    ["plants", "flowers", "mushrooms"],          
+    ["trees", "evergreens", "flowers"],
+    ["reptiles", "lizards", "frogs"],
+    ["amphibians", "salamanders", "snakes"],
+    ["insects", "butterflies", "spiders"],
+    ["arachnids", "scorpions", "beetles"],
+    ["fish", "salmon", "dolphins"],
+    ["birds", "penguins", "bats"],
+    ["primates", "chimpanzees", "raccoons"],
+    ["rodents", "hamsters", "rabbits"],
+    ["carnivores", "wolves", "cows"],
+    ["ungulates", "deer", "kangaroos"],
+    ["deciduous trees", "birches", "pines"],
+    ["coniferous trees", "spruces", "oaks"],
+    ["aquatic plants", "lotuses", "trout"],
+    ["herbs", "mint", "cacti"],
+    ["shrubs", "roses", "sunflowers"],
+    ["fungi", "yeasts", "algae"],
+    ["bryophytes", "liverworts", "ferns"],
+    ["cyprinids", "minnows", "trout"],
+    ["raptors", "falcons", "crows"],
+    ["passerines", "sparrows", "ducks"],
+    ["marsupials", "kangaroos", "platypuses"],
+    ["cetaceans", "whales", "seals"],
+    ["sirenians", "manatees", "dolphins"],
+    ["historic ships", "caravels", "submarines"],
+    ["combat aircraft", "fighters", "cargo planes"],
+    ["commercial vehicles", "trucks", "sports cars"],
+    ["rail transport", "trains", "motorcycles"],
+    ["two-wheeled vehicles", "scooters", "skateboards"],
+    ["amphibious vehicles", "hovercrafts", "bicycles"],
+    ["computing devices", "desktops", "printers"],
+    ["mobile devices", "tablets", "headphones"],
+    ["celestial objects", "moons", "airplanes"], 
+    ["planetary bodies", "asteroids", "meteors"],
+    ["weather systems", "hurricanes", "earthquakes"],
+    ["geological features", "volcanoes", "clouds"],
+    ["visual art", "paintings", "symphonies"],
+    ["musical ensembles", "orchestras", "solo pianists"],
+    ["string instruments", "cellos", "flutes"],
+    ["wind instruments", "clarinets", "drums"],
+    ["perennial plants", "lavender", "marigolds"]
+],
+    "AA2": [
+    ["dogs", "cats", "felines"],
+    ["cats", "dogs", "canines"],
+    ["birds", "cows", "mammals"],
+    ["cows", "birds", "winged animals"],
+    ["cars", "animals", "mortals"],
+    ["animals", "cars", "vehicles"],
+    ["planes", "warships", "watercrafts"],
+    ["warships", "planes", "aircrafts"],
+    ["mushrooms", "flowers", "plants"],
+    ["flowers", "evergreens", "trees"],
+    ["frogs", "lizards", "reptiles"],
+    ["snakes", "salamanders", "amphibians"],
+    ["spiders", "butterflies", "insects"],
+    ["beetles", "scorpions", "arachnids"],
+    ["dolphins", "salmon", "fish"],
+    ["bats", "penguins", "birds"],
+    ["raccoons", "chimpanzees", "primates"],
+    ["rabbits", "hamsters", "rodents"],
+    ["cows", "wolves", "carnivores"],
+    ["kangaroos", "deer", "ungulates"],
+    ["pines", "birches", "deciduous trees"],
+    ["oaks", "spruces", "coniferous trees"],
+    ["trout", "lotuses", "aquatic plants"],
+    ["cacti", "mint", "herbs"],
+    ["sunflowers", "roses", "shrubs"],
+    ["algae", "yeasts", "fungi"],
+    ["ferns", "liverworts", "bryophytes"],
+    ["trout", "minnows", "cyprinids"],
+    ["crows", "falcons", "raptors"],
+    ["ducks", "sparrows", "passerines"],
+    ["platypuses", "kangaroos", "marsupials"],
+    ["seals", "whales", "cetaceans"],
+    ["dolphins", "manatees", "sirenians"],
+    ["submarines", "caravels", "historic ships"],
+    ["cargo planes", "fighters", "combat aircraft"],
+    ["sports cars", "trucks", "commercial vehicles"],
+    ["motorcycles", "trains", "rail transport"],
+    ["skateboards", "scooters", "two-wheeled vehicles"],
+    ["bicycles", "hovercrafts", "amphibious vehicles"],
+    ["printers", "desktops", "computing devices"],
+    ["headphones", "tablets", "mobile devices"],
+    ["airplanes", "moons", "celestial objects"],
+    ["meteors", "asteroids", "planetary bodies"],
+    ["earthquakes", "hurricanes", "weather systems"],
+    ["clouds", "volcanoes", "geological features"],
+    ["symphonies", "paintings", "visual art"],
+    ["solo pianists", "orchestras", "musical ensembles"],
+    ["flutes", "cellos", "string instruments"],
+    ["drums", "clarinets", "wind instruments"],
+    ["marigolds", "lavender", "perennial plants"]
+],
+    "AA3": [
+        [
+            "cats",
+            "siameses",
+            "felines"
+        ],
+        [
+            "dogs",
+            "labradors",
+            "canines"
+        ],
+        [
+            "cows",
+            "anguses",
+            "mammals"
+        ],
+        [
+            "birds",
+            "chickadees",
+            "winged animals"
+        ],
+        [
+            "animals",
+            "humans",
+            "mortals"
+        ],
+        [
+            "cars",
+            "sedans",
+            "vehicles"
+        ],
+        [
+            "warships",
+            "cruisers",
+            "watercrafts"
+        ],
+        [
+            "planes",
+            "boeings",
+            "aircrafts"
+        ],
+        [
+            "flowers",
+            "daisies",
+            "plants"
+        ],
+        [
+            "evergreens",
+            "pines",
+            "trees"
+        ]
+    ],
+    "AA4": [
+    ["dogs", "felines", "cats"],
+    ["cows", "canines", "dogs"],
+    ["birds", "mammals", "cows"],
+    ["cats", "winged animals", "birds"],
+    ["vehicles", "mortals", "animals"],
+    ["warships", "vehicles", "cars"],
+    ["cars", "watercrafts", "warships"],
+    ["warships", "aircrafts", "planes"],
+    ["animals", "plants", "flowers"],
+    ["animals", "trees", "evergreens"],
+    ["bats", "flying animals", "sparrows"],
+    ["cats", "birds of prey", "eagles"],
+    ["roses", "aquatic life", "trout"],
+    ["tuna", "trees", "oaks"],
+    ["smartphones", "flora", "ferns"],
+    ["dolphins", "raptors", "falcons"],
+    ["motorcycles", "dogs", "beagles"],
+    ["clouds", "deciduous trees", "maples"],
+    ["whales", "freshwater fish", "salmons"],
+    ["computers", "exotic flowers", "orchids"],
+    ["desks", "watercrafts", "sailing yachts"],
+    ["snakes", "nocturnal birds", "owls"],
+    ["trains", "working dogs", "huskies"],
+    ["mountains", "succulents", "cacti"],
+    ["sharks", "game fish", "bass"],
+    ["books", "spring blooms", "tulips"],
+    ["helicopters", "combat ships", "destroyers"],
+    ["frogs", "migratory birds", "swallows"],
+    ["bicycles", "sighthounds", "greyhounds"],
+    ["rivers", "grasses", "bamboos"],
+    ["lizards", "bottom feeders", "catfish"],
+    ["paintings", "rhizome flowers", "irises"],
+    ["satellites", "historic ships", "galleons"],
+    ["insects", "songbirds", "robins"],
+    ["wolves", "arctic dogs", "malamutes"],
+    ["deserts", "tropical trees", "palms"],
+    ["Starfish", "cyprinid fish", "carp"],
+    ["statues", "wildflowers", "violets"],
+    ["robots", "amphibious vehicles", "hovercrafts"],
+    ["fungi", "bryophytes", "mosses"],
+    ["spiders", "pelagic fish", "swordfish"],
+    ["clocks", "perennial flowers", "peonies"],
+    ["volcanoes", "small warships", "corvettes"],
+    ["jellyfish", "wading birds", "herons"],
+    ["microscopes", "naval ships", "frigates"],
+    ["glaciers", "ornamental flowers", "lilies"],
+    ["asteroids", "guard dogs", "rottweilers"],
+    ["neurons", "canines", "bulldogs"],
+    ["comets", "non-flowering plants", "ferns"],
+    ["quasars", "flowers", "daisies"],
+    ["tigers", "flightless birds", "penguins"]
+],
+    "AI1": [
+        [
+            "felines",
+            "cats",
+            "dogs"
+        ],
+        [
+            "canines",
+            "dogs",
+            "cows"
+        ],
+        [
+            "mammals",
+            "cows",
+            "birds"
+        ],
+        [
+            "winged animals",
+            "birds",
+            "cats"
+        ],
+        [
+            "mortals",
+            "animals",
+            "vehicles"
+        ],
+        [
+            "cars",
+            "sedans",
+            "warships"
+        ],
+        [
+            "watercrafts",
+            "warships",
+            "cars"
+        ],
+        [
+            "aircrafts",
+            "planes",
+            "warships"
+        ],
+        [
+            "plants",
+            "flowers",
+            "evergreens"
+        ],
+        [
+            "trees",
+            "evergreens",
+            "flowers"
+        ]
+    ],
+    "AI2":[
+    ["cats", "felines", "dogs"],
+    ["dogs", "canines", "cows"],
+    ["cows", "mammals", "birds"],
+    ["birds", "winged animals", "cats"],
+    ["animals", "mortals", "vehicles"],
+    ["cars", "vehicles", "warships"],
+    ["warships", "watercrafts", "cars"],
+    ["planes", "aircrafts", "warships"],
+    ["flowers", "plants", "animals"],
+    ["evergreens", "trees", "animals"],
+    ["sparrows", "flying animals", "bats"],
+    ["eagles", "birds of prey", "cats"],
+    ["trout", "aquatic life", "roses"],
+    ["oaks", "trees", "tuna"],
+    ["ferns", "flora", "smartphones"],
+    ["falcons", "raptors", "dolphins"],
+    ["beagles", "dogs", "motorcycles"],
+    ["maples", "deciduous trees", "clouds"],
+    ["salmons", "freshwater fish", "whales"],
+    ["orchids", "exotic flowers", "computers"],
+    ["sailing yachts", "watercrafts", "desks"],
+    ["owls", "nocturnal birds", "snakes"],
+    ["huskies", "working dogs", "trains"],
+    ["cacti", "succulents", "mountains"],
+    ["bass", "game fish", "sharks"],
+    ["tulips", "spring blooms", "books"],
+    ["destroyers", "combat ships", "helicopters"],
+    ["swallows", "migratory birds", "frogs"],
+    ["greyhounds", "sighthounds", "bicycles"],
+    ["bamboos", "grasses", "rivers"],
+    ["catfish", "bottom feeders", "lizards"],
+    ["irises", "rhizome flowers", "paintings"],
+    ["galleons", "historic ships", "satellites"],
+    ["robins", "songbirds", "insects"],
+    ["malamutes", "arctic dogs", "wolves"],
+    ["palms", "tropical trees", "deserts"],
+    ["carp", "cyprinid fish", "Starfish"],
+    ["violets", "wildflowers", "statues"],
+    ["hovercrafts", "amphibious vehicles", "robots"],
+    ["mosses", "bryophytes", "fungi"],
+    ["swordfish", "pelagic fish", "spiders"],
+    ["peonies", "perennial flowers", "clocks"],
+    ["corvettes", "small warships", "volcanoes"],
+    ["herons", "wading birds", "jellyfish"],
+    ["frigates", "naval ships", "microscopes"],
+    ["lilies", "ornamental flowers", "glaciers"],
+    ["rottweilers", "guard dogs", "asteroids"],
+    ["bulldogs", "canines", "neurons"],
+    ["ferns", "non-flowering plants", "comets"],
+    ["daisies", "flowers", "quasars"],
+    ["penguins", "flightless birds", "tigers"] 
+],
+    "AI3": [
+        [
+            "felines",
+            "cats",
+            "dogs"
+        ],
+        [
+            "canines",
+            "dogs",
+            "cows"
+        ],
+        [
+            "mammals",
+            "cows",
+            "birds"
+        ],
+        [
+            "winged animals",
+            "birds",
+            "cats"
+        ],
+        [
+            "mortals",
+            "animals",
+            "vehicles"
+        ],
+        [
+            "cars",
+            "sedans",
+            "warships"
+        ],
+        [
+            "watercrafts",
+            "warships",
+            "cars"
+        ],
+        [
+            "aircrafts",
+            "planes",
+            "warships"
+        ],
+        [
+            "plants",
+            "flowers",
+            "evergreens"
+        ],
+        [
+            "trees",
+            "evergreens",
+            "flowers"
+        ]
+    ],
+    "AI4": [
+    ["cats", "felines", "dogs"],
+    ["dogs", "canines", "cows"],
+    ["cows", "mammals", "birds"],
+    ["birds", "winged animals", "cats"],
+    ["animals", "mortals", "vehicles"],
+    ["cars", "vehicles", "warships"],
+    ["warships", "watercrafts", "cars"],
+    ["planes", "aircrafts", "warships"],
+    ["flowers", "plants", "animals"],
+    ["evergreens", "trees", "animals"],
+    ["sparrows", "flying animals", "bats"],
+    ["eagles", "birds of prey", "cats"],
+    ["trout", "aquatic life", "roses"],
+    ["oaks", "trees", "tuna"],
+    ["ferns", "flora", "smartphones"],
+    ["falcons", "raptors", "dolphins"],
+    ["beagles", "dogs", "motorcycles"],
+    ["maples", "deciduous trees", "clouds"],
+    ["salmons", "freshwater fish", "whales"],
+    ["orchids", "exotic flowers", "computers"],
+    ["sailing yachts", "watercrafts", "desks"],
+    ["owls", "nocturnal birds", "snakes"],
+    ["huskies", "working dogs", "trains"],
+    ["cacti", "succulents", "mountains"],
+    ["bass", "game fish", "sharks"],
+    ["tulips", "spring blooms", "books"],
+    ["destroyers", "combat ships", "helicopters"],
+    ["swallows", "migratory birds", "frogs"],
+    ["greyhounds", "sighthounds", "bicycles"],
+    ["bamboos", "grasses", "rivers"],
+    ["catfish", "bottom feeders", "lizards"],
+    ["irises", "rhizome flowers", "paintings"],
+    ["galleons", "historic ships", "satellites"],
+    ["robins", "songbirds", "insects"],
+    ["malamutes", "arctic dogs", "wolves"],
+    ["palms", "tropical trees", "deserts"],
+    ["carp", "cyprinid fish", "Starfish"],
+    ["violets", "wildflowers", "statues"],
+    ["hovercrafts", "amphibious vehicles", "robots"],
+    ["mosses", "bryophytes", "fungi"],
+    ["swordfish", "pelagic fish", "spiders"],
+    ["peonies", "perennial flowers", "clocks"],
+    ["corvettes", "small warships", "volcanoes"],
+    ["herons", "wading birds", "jellyfish"],
+    ["frigates", "naval ships", "microscopes"],
+    ["lilies", "ornamental flowers", "glaciers"],
+    ["rottweilers", "guard dogs", "asteroids"],
+    ["bulldogs", "canines", "neurons"],
+    ["ferns", "non-flowering plants", "comets"],
+    ["daisies", "flowers", "quasars"],
+    ["penguins", "flightless birds", "tigers"]
+],
+    "AE1": [
+    ["felines", "siameses", "cats"],
+    ["canines", "labradors", "dogs"],
+    ["mammals", "anguses", "cows"],
+    ["winged animals", "chickadees", "birds"],
+    ["mortals", "humans", "animals"],
+    ["vehicles", "sedans", "cars"],
+    ["watercrafts", "cruisers", "warships"],
+    ["aircrafts", "boeings", "planes"],
+    ["plants", "daisies", "flowers"],
+    ["trees", "pines", "evergreens"],
+    ["creatures with feathers", "sparrows", "birds"],
+    ["trees", "oaks", "hardwoods"],
+    ["sea creatures", "tuna", "fish"],
+    ["garden plants", "roses", "flowers"],
+    ["watercrafts", "cargo ships", "vessels"],
+    ["birds of prey", "falcons", "raptors"],
+    ["dogs", "beagles", "hounds"],
+    ["trees", "maples", "deciduous trees"],
+    ["aquatic animals", "salmons", "migratory fish"],
+    ["plants", "orchids", "exotic flowers"],
+    ["watercrafts", "sailing yachts", "sailboats"],
+    ["predators", "eagles", "birds"],
+    ["pets", "bulldogs", "canines"],
+    ["flora", "ferns", "non-flowering plants"],
+    ["vertebrates", "trout", "freshwater fish"],
+    ["flowers", "lilies", "ornamental flowers"],
+    ["vessels", "frigates", "naval ships"],
+    ["avian species", "herons", "wading birds"],
+    ["canines", "huskies", "working dogs"],
+    ["desert plants", "cacti", "succulents"],
+    ["aquatic life", "bass", "game fish"],
+    ["flowers", "tulips", "spring blooms"],
+    ["naval craft", "destroyers", "combat ships"],
+    ["raptors", "owls", "nocturnal birds"],
+    ["mammals", "rottweilers", "guard dogs"],
+    ["primitive plants", "mosses", "bryophytes"],
+    ["ocean dwellers", "swordfish", "pelagic fish"],
+    ["ornamental plants", "peonies", "perennial flowers"],
+    ["military vessels", "corvettes", "small warships"],
+    ["flying animals", "swallows", "migratory birds"],
+    ["dogs", "greyhounds", "sighthounds"],
+    ["plants", "bamboos", "grasses"],
+    ["freshwater species", "catfish", "bottom feeders"],
+    ["garden perennials", "irises", "rhizome flowers"],
+    ["sailing vessels", "galleons", "historic ships"],
+    ["passerines", "robins", "songbirds"],
+    ["canines", "malamutes", "arctic dogs"],
+    ["monocots", "palms", "tropical trees"],
+    ["pond inhabitants", "carp", "cyprinid fish"],
+    ["herbaceous plants", "violets", "wildflowers"],
+    ["transport craft", "hovercrafts", "amphibious vehicles"]
+],
+    "AE2": [
+    ["cats", "dogs", "felines"],
+    ["dogs", "cows", "canines"],
+    ["cows", "birds", "mammals"],
+    ["birds", "cats", "winged animals"],
+    ["animals", "vehicles", "mortals"],
+    ["cars", "warships", "vehicles"],
+    ["warships", "cars", "watercrafts"],
+    ["planes", "warships", "aircrafts"],
+    ["flowers", "animals", "plants"],
+    ["evergreens", "animals", "trees"],
+    ["sparrows", "bats", "flying animals"],
+    ["eagles", "cats", "birds of prey"],
+    ["trout", "roses", "aquatic life"],
+    ["oaks", "tuna", "trees"],
+    ["ferns", "smartphones", "flora"],
+    ["falcons", "dolphins", "raptors"],
+    ["beagles", "motorcycles", "dogs"],
+    ["maples", "clouds", "deciduous trees"],
+    ["salmons", "whales", "freshwater fish"],
+    ["orchids", "computers", "exotic flowers"],
+    ["sailing yachts", "desks", "watercrafts"],
+    ["owls", "snakes", "nocturnal birds"],
+    ["huskies", "trains", "working dogs"],
+    ["cacti", "mountains", "succulents"],
+    ["bass", "sharks", "game fish"],
+    ["tulips", "books", "spring blooms"],
+    ["destroyers", "helicopters", "combat ships"],
+    ["swallows", "frogs", "migratory birds"],
+    ["greyhounds", "bicycles", "sighthounds"],
+    ["bamboos", "rivers", "grasses"],
+    ["catfish", "lizards", "bottom feeders"],
+    ["irises", "paintings", "rhizome flowers"],
+    ["galleons", "satellites", "historic ships"],
+    ["robins", "insects", "songbirds"],
+    ["malamutes", "wolves", "arctic dogs"],
+    ["palms", "deserts", "tropical trees"],
+    ["carp", "Starfish", "cyprinid fish"],
+    ["violets", "statues", "wildflowers"],
+    ["hovercrafts", "robots", "amphibious vehicles"],
+    ["mosses", "fungi", "bryophytes"],
+    ["swordfish", "spiders", "pelagic fish"],
+    ["peonies", "clocks", "perennial flowers"],
+    ["corvettes", "volcanoes", "small warships"],
+    ["herons", "jellyfish", "wading birds"],
+    ["frigates", "microscopes", "naval ships"],
+    ["lilies", "glaciers", "ornamental flowers"],
+    ["rottweilers", "asteroids", "guard dogs"],
+    ["bulldogs", "neurons", "canines"],
+    ["ferns", "comets", "non-flowering plants"],
+    ["daisies", "quasars", "flowers"],
+    ["penguins", "tigers", "flightless birds"]
+],
+    "AE3": [
+    ["cats", "felines", "siameses"],
+    ["dogs", "canines", "labradors"],
+    ["cows", "mammals", "anguses"],
+    ["birds", "winged animals", "chickadees"],
+    ["animals", "mortals", "humans"],
+    ["cars", "vehicles", "sedans"],
+    ["warships", "watercrafts", "cruisers"],
+    ["planes", "aircrafts", "boeings"],
+    ["flowers", "plants", "daisies"],
+    ["evergreens", "trees", "pines"],
+    ["birds", "creatures with feathers", "sparrows"],
+    ["hardwoods", "trees", "oaks"],
+    ["fish", "sea creatures", "tuna"],
+    ["flowers", "garden plants", "roses"],
+    ["vessels", "watercrafts", "cargo ships"],
+    ["raptors", "birds of prey", "falcons"],
+    ["hounds", "dogs", "beagles"],
+    ["deciduous trees", "trees", "maples"],
+    ["migratory fish", "aquatic animals", "salmons"],
+    ["exotic flowers", "plants", "orchids"],
+    ["sailboats", "watercrafts", "sailing yachts"],
+    ["birds", "predators", "eagles"],
+    ["canines", "pets", "bulldogs"],
+    ["non-flowering plants", "flora", "ferns"],
+    ["freshwater fish", "vertebrates", "trout"],
+    ["ornamental flowers", "flowers", "lilies"],
+    ["naval ships", "vessels", "frigates"],
+    ["wading birds", "avian species", "herons"],
+    ["working dogs", "canines", "huskies"],
+    ["succulents", "desert plants", "cacti"],
+    ["game fish", "aquatic life", "bass"],
+    ["spring blooms", "flowers", "tulips"],
+    ["combat ships", "naval craft", "destroyers"],
+    ["nocturnal birds", "raptors", "owls"],
+    ["guard dogs", "mammals", "rottweilers"],
+    ["bryophytes", "primitive plants", "mosses"],
+    ["pelagic fish", "ocean dwellers", "swordfish"],
+    ["perennial flowers", "ornamental plants", "peonies"],
+    ["small warships", "military vessels", "corvettes"],
+    ["migratory birds", "flying animals", "swallows"],
+    ["sighthounds", "dogs", "greyhounds"],
+    ["grasses", "plants", "bamboos"],
+    ["bottom feeders", "freshwater species", "catfish"],
+    ["rhizome flowers", "garden perennials", "irises"],
+    ["historic ships", "sailing vessels", "galleons"],
+    ["songbirds", "passerines", "robins"],
+    ["arctic dogs", "canines", "malamutes"],
+    ["tropical trees", "monocots", "palms"],
+    ["cyprinid fish", "pond inhabitants", "carp"],
+    ["wildflowers", "herbaceous plants", "violets"],
+    ["amphibious vehicles", "transport craft", "hovercrafts"]
+],
+    "AE4": [
+    ["siameses", "felines", "cats"],
+    ["labradors", "canines", "dogs"],
+    ["anguses", "mammals", "cows"],
+    ["chickadees", "winged animals", "birds"],
+    ["humans", "mortals", "animals"],
+    ["sedans", "vehicles", "cars"],
+    ["cruisers", "watercrafts", "warships"],
+    ["boeings", "aircrafts", "planes"],
+    ["daisies", "plants", "flowers"],
+    ["pines", "trees", "evergreens"],
+    ["sparrows", "creatures with feathers", "birds"],
+    ["oaks", "trees", "hardwoods"],
+    ["tuna", "sea creatures", "fish"],
+    ["roses", "garden plants", "flowers"],
+    ["cargo ships", "watercrafts", "vessels"],
+    ["falcons", "birds of prey", "raptors"],
+    ["beagles", "dogs", "hounds"],
+    ["maples", "trees", "deciduous trees"],
+    ["salmons", "aquatic animals", "migratory fish"],
+    ["orchids", "plants", "exotic flowers"],
+    ["sailing yachts", "watercrafts", "sailboats"],
+    ["eagles", "predators", "birds"],
+    ["bulldogs", "pets", "canines"],
+    ["ferns", "flora", "non-flowering plants"],
+    ["trout", "vertebrates", "freshwater fish"],
+    ["lilies", "flowers", "ornamental flowers"],
+    ["frigates", "vessels", "naval ships"],
+    ["herons", "avian species", "wading birds"],
+    ["huskies", "canines", "working dogs"],
+    ["cacti", "desert plants", "succulents"],
+    ["bass", "aquatic life", "game fish"],
+    ["tulips", "flowers", "spring blooms"],
+    ["destroyers", "naval craft", "combat ships"],
+    ["owls", "raptors", "nocturnal birds"],
+    ["rottweilers", "mammals", "guard dogs"],
+    ["mosses", "primitive plants", "bryophytes"],
+    ["swordfish", "ocean dwellers", "pelagic fish"],
+    ["peonies", "ornamental plants", "perennial flowers"],
+    ["corvettes", "military vessels", "small warships"],
+    ["swallows", "flying animals", "migratory birds"],
+    ["greyhounds", "dogs", "sighthounds"],
+    ["bamboos", "plants", "grasses"],
+    ["catfish", "freshwater species", "bottom feeders"],
+    ["irises", "garden perennials", "rhizome flowers"],
+    ["galleons", "sailing vessels", "historic ships"],
+    ["robins", "passerines", "songbirds"],
+    ["malamutes", "canines", "arctic dogs"],
+    ["palms", "monocots", "tropical trees"],
+    ["carp", "pond inhabitants", "cyprinid fish"],
+    ["violets", "herbaceous plants", "wildflowers"],
+    ["hovercrafts", "transport craft", "amphibious vehicles"]
+],
+    "AO1": [
+        [
+            "cats",
+            "siameses",
+            "felines"
+        ],
+        [
+            "dogs",
+            "labradors",
+            "canines"
+        ],
+        [
+            "cows",
+            "anguses",
+            "mammals"
+        ],
+        [
+            "birds",
+            "chickadees",
+            "winged animals"
+        ],
+        [
+            "animals",
+            "humans",
+            "mortals"
+        ],
+        [
+            "cars",
+            "sedans",
+            "vehicles"
+        ],
+        [
+            "warships",
+            "cruisers",
+            "watercrafts"
+        ],
+        [
+            "planes",
+            "boeings",
+            "aircrafts"
+        ],
+        [
+            "flowers",
+            "daisies",
+            "plants"
+        ],
+        [
+            "evergreens",
+            "pines",
+            "trees"
+        ]
+    ],
+    "AO2": [
+        [
+            "cats",
+            "felines",
+            "siameses"
+        ],
+        [
+            "dogs",
+            "canines",
+            "labradors"
+        ],
+        [
+            "cows",
+            "mammals",
+            "anguses"
+        ],
+        [
+            "birds",
+            "winged animals",
+            "chickadees"
+        ],
+        [
+            "animals",
+            "mortals",
+            "humans"
+        ],
+        [
+            "cars",
+            "vehicles",
+            "sedans"
+        ],
+        [
+            "warships",
+            "watercrafts",
+            "cruisers"
+        ],
+        [
+            "planes",
+            "aircrafts",
+            "boeings"
+        ],
+        [
+            "flowers",
+            "plants",
+            "daisies"
+        ],
+        [
+            "evergreens",
+            "trees",
+            "pines"
+        ]
+    ],
+    "AO3": [
+    ["felines", "cats", "siameses"],
+    ["canines", "dogs", "labradors"],
+    ["mammals", "cows", "anguses"],
+    ["winged animals", "birds", "chickadees"],
+    ["mortals", "animals", "humans"],
+    ["vehicles", "cars", "sedans"],
+    ["watercrafts", "warships", "cruisers"],
+    ["aircrafts", "planes", "boeings"],
+    ["plants", "flowers", "daisies"],
+    ["trees", "evergreens", "pines"],
+    ["creatures with feathers", "birds", "sparrows"],
+    ["trees", "hardwoods", "oaks"],
+    ["sea creatures", "fish", "tuna"],
+    ["garden plants", "flowers", "roses"],
+    ["watercrafts", "vessels", "cargo ships"],
+    ["birds of prey", "raptors", "falcons"],
+    ["dogs", "hounds", "beagles"],
+    ["trees", "deciduous trees", "maples"],
+    ["aquatic animals", "migratory fish", "salmons"],
+    ["plants", "exotic flowers", "orchids"],
+    ["watercrafts", "sailboats", "sailing yachts"],
+    ["predators", "birds", "eagles"],
+    ["pets", "canines", "bulldogs"],
+    ["flora", "non-flowering plants", "ferns"],
+    ["vertebrates", "freshwater fish", "trout"],
+    ["flowers", "ornamental flowers", "lilies"],
+    ["vessels", "naval ships", "frigates"],
+    ["avian species", "wading birds", "herons"],
+    ["canines", "working dogs", "huskies"],
+    ["desert plants", "succulents", "cacti"],
+    ["aquatic life", "game fish", "bass"],
+    ["flowers", "spring blooms", "tulips"],
+    ["naval craft", "combat ships", "destroyers"],
+    ["raptors", "nocturnal birds", "owls"],
+    ["mammals", "guard dogs", "rottweilers"],
+    ["primitive plants", "bryophytes", "mosses"],
+    ["ocean dwellers", "pelagic fish", "swordfish"],
+    ["ornamental plants", "perennial flowers", "peonies"],
+    ["military vessels", "small warships", "corvettes"],
+    ["flying animals", "migratory birds", "swallows"],
+    ["dogs", "sighthounds", "greyhounds"],
+    ["plants", "grasses", "bamboos"],
+    ["freshwater species", "bottom feeders", "catfish"],
+    ["garden perennials", "rhizome flowers", "irises"],
+    ["sailing vessels", "historic ships", "galleons"],
+    ["passerines", "songbirds", "robins"],
+    ["canines", "arctic dogs", "malamutes"],
+    ["monocots", "tropical trees", "palms"],
+    ["pond inhabitants", "cyprinid fish", "carp"],
+    ["herbaceous plants", "wildflowers", "violets"],
+    ["transport craft", "amphibious vehicles", "hovercrafts"]
+],
+    "AO4": [
+    ["siameses", "cats", "felines"],
+    ["labradors", "dogs", "canines"],
+    ["anguses", "cows", "mammals"],
+    ["chickadees", "birds", "winged animals"],
+    ["humans", "animals", "mortals"],
+    ["sedans", "cars", "vehicles"],
+    ["cruisers", "warships", "watercrafts"],
+    ["boeings", "planes", "aircrafts"],
+    ["daisies", "flowers", "plants"],
+    ["pines", "evergreens", "trees"],
+    ["sparrows", "birds", "creatures with feathers"],
+    ["oaks", "hardwoods", "trees"],
+    ["tuna", "fish", "sea creatures"],
+    ["roses", "flowers", "garden plants"],
+    ["cargo ships", "vessels", "watercrafts"],
+    ["falcons", "raptors", "birds of prey"],
+    ["beagles", "hounds", "dogs"],
+    ["maples", "deciduous trees", "trees"],
+    ["salmons", "migratory fish", "aquatic animals"],
+    ["orchids", "exotic flowers", "plants"],
+    ["sailing yachts", "sailboats", "watercrafts"],
+    ["eagles", "birds", "predators"],
+    ["bulldogs", "canines", "pets"],
+    ["ferns", "non-flowering plants", "flora"],
+    ["trout", "freshwater fish", "vertebrates"],
+    ["lilies", "ornamental flowers", "flowers"],
+    ["frigates", "naval ships", "vessels"],
+    ["herons", "wading birds", "avian species"],
+    ["huskies", "working dogs", "canines"],
+    ["cacti", "succulents", "desert plants"],
+    ["bass", "game fish", "aquatic life"],
+    ["tulips", "spring blooms", "flowers"],
+    ["destroyers", "combat ships", "naval craft"],
+    ["owls", "nocturnal birds", "raptors"],
+    ["rottweilers", "guard dogs", "mammals"],
+    ["mosses", "bryophytes", "primitive plants"],
+    ["swordfish", "pelagic fish", "ocean dwellers"],
+    ["peonies", "perennial flowers", "ornamental plants"],
+    ["corvettes", "small warships", "military vessels"],
+    ["swallows", "migratory birds", "flying animals"],
+    ["greyhounds", "sighthounds", "dogs"],
+    ["bamboos", "grasses", "plants"],
+    ["catfish", "bottom feeders", "freshwater species"],
+    ["irises", "rhizome flowers", "garden perennials"],
+    ["galleons", "historic ships", "sailing vessels"],
+    ["robins", "songbirds", "passerines"],
+    ["malamutes", "arctic dogs", "canines"],
+    ["palms", "tropical trees", "monocots"],
+    ["carp", "cyprinid fish", "pond inhabitants"],
+    ["violets", "wildflowers", "herbaceous plants"],
+    ["hovercrafts", "amphibious vehicles", "transport craft"]
+     ],
+    "IA1": [
+    ["dogs", "felines", "cats"],
+    ["cats", "canines", "dogs"],
+    ["birds", "mammals", "cows"],
+    ["cows", "winged animals", "birds"],
+    ["cars", "mortals", "animals"],
+    ["animals", "vehicles", "cars"],
+    ["planes", "watercrafts", "warships"],
+    ["warships", "aircrafts", "planes"],
+    ["mushrooms", "plants", "flowers"],
+    ["flowers", "trees", "evergreens"],
+    ["frogs", "reptiles", "lizards"],
+    ["snakes", "amphibians", "salamanders"],
+    ["spiders", "insects", "butterflies"],
+    ["beetles", "arachnids", "scorpions"],
+    ["dolphins", "fish", "salmon"],
+    ["bats", "birds", "penguins"],
+    ["raccoons", "primates", "chimpanzees"],
+    ["rabbits", "rodents", "hamsters"],
+    ["cows", "carnivores", "wolves"],
+    ["kangaroos", "ungulates", "deer"],
+    ["pines", "deciduous trees", "birches"],
+    ["oaks", "coniferous trees", "spruces"],
+    ["trout", "aquatic plants", "lotuses"],
+    ["cacti", "herbs", "mint"],
+    ["sunflowers", "shrubs", "roses"],
+    ["algae", "fungi", "yeasts"],
+    ["ferns", "bryophytes", "liverworts"],
+    ["trout", "cyprinids", "minnows"],
+    ["crows", "raptors", "falcons"],
+    ["ducks", "passerines", "sparrows"],
+    ["platypuses", "marsupials", "kangaroos"],
+    ["seals", "cetaceans", "whales"],
+    ["dolphins", "sirenians", "manatees"],
+    ["submarines", "historic ships", "caravels"],
+    ["cargo planes", "combat aircraft", "fighters"],
+    ["sports cars", "commercial vehicles", "trucks"],
+    ["motorcycles", "rail transport", "trains"],
+    ["skateboards", "two-wheeled vehicles", "scooters"],
+    ["bicycles", "amphibious vehicles", "hovercrafts"],
+    ["printers", "computing devices", "desktops"],
+    ["headphones", "mobile devices", "tablets"],
+    ["airplanes", "celestial objects", "moons"],
+    ["meteors", "planetary bodies", "asteroids"],
+    ["earthquakes", "weather systems", "hurricanes"],
+    ["clouds", "geological features", "volcanoes"],
+    ["symphonies", "visual art", "paintings"],
+    ["solo pianists", "musical ensembles", "orchestras"],
+    ["flutes", "string instruments", "cellos"],
+    ["drums", "wind instruments", "clarinets"],
+    ["marigolds", "perennial plants", "lavender"]
+],
+    "IA2": [
+        [
+            "dogs",
+            "siameses",
+            "cats"
+        ],
+        [
+            "cats",
+            "labradors",
+            "dogs"
+        ],
+        [
+            "birds",
+            "anguses",
+            "cows"
+        ],
+        [
+            "cows",
+            "chickadees",
+            "birds"
+        ],
+        [
+            "flowers",
+            "humans",
+            "animals"
+        ],
+        [
+            "animals",
+            "sedans",
+            "cars"
+        ],
+        [
+            "planes",
+            "cruisers",
+            "warships"
+        ],
+        [
+            "warships",
+            "boeings",
+            "planes"
+        ],
+        [
+            "evergreens",
+            "plants",
+            "flowers"
+        ],
+        [
+            "flowers",
+            "trees",
+            "evergreens"
+        ]
+    ],
+    "IA3": [
+        [
+            "dogs",
+            "siameses",
+            "cats"
+        ],
+        [
+            "cats",
+            "labradors",
+            "dogs"
+        ],
+        [
+            "birds",
+            "anguses",
+            "cows"
+        ],
+        [
+            "cows",
+            "chickadees",
+            "birds"
+        ],
+        [
+            "flowers",
+            "humans",
+            "animals"
+        ],
+        [
+            "animals",
+            "sedans",
+            "cars"
+        ],
+        [
+            "planes",
+            "cruisers",
+            "warships"
+        ],
+        [
+            "warships",
+            "boeings",
+            "planes"
+        ],
+        [
+            "evergreens",
+            "plants",
+            "flowers"
+        ],
+        [
+            "flowers",
+            "trees",
+            "evergreens"
+        ]
+    ],
+    "IA4": [
+    ["dogs", "felines", "cats"],
+    ["cows", "canines", "dogs"],
+    ["birds", "mammals", "cows"],
+    ["cats", "winged animals", "birds"],
+    ["vehicles", "mortals", "animals"],
+    ["warships", "vehicles", "cars"],
+    ["cars", "watercrafts", "warships"],
+    ["warships", "aircrafts", "planes"],
+    ["animals", "plants", "flowers"],
+    ["animals", "trees", "evergreens"],
+    ["bats", "flying animals", "sparrows"],
+    ["cats", "birds of prey", "eagles"],
+    ["roses", "aquatic life", "trout"],
+    ["tuna", "trees", "oaks"],
+    ["smartphones", "flora", "ferns"],
+    ["dolphins", "raptors", "falcons"],
+    ["motorcycles", "dogs", "beagles"],
+    ["clouds", "deciduous trees", "maples"],
+    ["whales", "freshwater fish", "salmons"],
+    ["computers", "exotic flowers", "orchids"],
+    ["desks", "watercrafts", "sailing yachts"],
+    ["snakes", "nocturnal birds", "owls"],
+    ["trains", "working dogs", "huskies"],
+    ["mountains", "succulents", "cacti"],
+    ["sharks", "game fish", "bass"],
+    ["books", "spring blooms", "tulips"],
+    ["helicopters", "combat ships", "destroyers"],
+    ["frogs", "migratory birds", "swallows"],
+    ["bicycles", "sighthounds", "greyhounds"],
+    ["rivers", "grasses", "bamboos"],
+    ["lizards", "bottom feeders", "catfish"],
+    ["paintings", "rhizome flowers", "irises"],
+    ["satellites", "historic ships", "galleons"],
+    ["insects", "songbirds", "robins"],
+    ["wolves", "arctic dogs", "malamutes"],
+    ["deserts", "tropical trees", "palms"],
+    ["Starfish", "cyprinid fish", "carp"],
+    ["statues", "wildflowers", "violets"],
+    ["robots", "amphibious vehicles", "hovercrafts"],
+    ["fungi", "bryophytes", "mosses"],
+    ["spiders", "pelagic fish", "swordfish"],
+    ["clocks", "perennial flowers", "peonies"],
+    ["volcanoes", "small warships", "corvettes"],
+    ["jellyfish", "wading birds", "herons"],
+    ["microscopes", "naval ships", "frigates"],
+    ["glaciers", "ornamental flowers", "lilies"],
+    ["asteroids", "guard dogs", "rottweilers"],
+    ["neurons", "canines", "bulldogs"],
+    ["comets", "non-flowering plants", "ferns"],
+    ["quasars", "flowers", "daisies"],
+    ["tigers", "flightless birds", "penguins"]
+],
+    "IE1": [
+    ["siameses", "cats", "felines"],
+    ["labradors", "dogs", "canines"],
+    ["anguses", "cows", "mammals"],
+    ["chickadees", "birds", "winged animals"],
+    ["humans", "animals", "mortals"],
+    ["sedans", "cars", "vehicles"],
+    ["cruisers", "warships", "watercrafts"],
+    ["boeings", "planes", "aircrafts"],
+    ["daisies", "flowers", "plants"],
+    ["pines", "evergreens", "trees"],
+    ["sparrows", "birds", "creatures with feathers"],
+    ["oaks", "hardwoods", "trees"],
+    ["tuna", "fish", "sea creatures"],
+    ["roses", "flowers", "garden plants"],
+    ["cargo ships", "vessels", "watercrafts"],
+    ["falcons", "raptors", "birds of prey"],
+    ["beagles", "hounds", "dogs"],
+    ["maples", "deciduous trees", "trees"],
+    ["salmons", "migratory fish", "aquatic animals"],
+    ["orchids", "exotic flowers", "plants"],
+    ["sailing yachts", "sailboats", "watercrafts"],
+    ["eagles", "birds", "predators"],
+    ["bulldogs", "canines", "pets"],
+    ["ferns", "non-flowering plants", "flora"],
+    ["trout", "freshwater fish", "vertebrates"],
+    ["lilies", "ornamental flowers", "flowers"],
+    ["frigates", "naval ships", "vessels"],
+    ["herons", "wading birds", "avian species"],
+    ["huskies", "working dogs", "canines"],
+    ["cacti", "succulents", "desert plants"],
+    ["bass", "game fish", "aquatic life"],
+    ["tulips", "spring blooms", "flowers"],
+    ["destroyers", "combat ships", "naval craft"],
+    ["owls", "nocturnal birds", "raptors"],
+    ["rottweilers", "guard dogs", "mammals"],
+    ["mosses", "bryophytes", "primitive plants"],
+    ["swordfish", "pelagic fish", "ocean dwellers"],
+    ["peonies", "perennial flowers", "ornamental plants"],
+    ["corvettes", "small warships", "military vessels"],
+    ["swallows", "migratory birds", "flying animals"],
+    ["greyhounds", "sighthounds", "dogs"],
+    ["bamboos", "grasses", "plants"],
+    ["catfish", "bottom feeders", "freshwater species"],
+    ["irises", "rhizome flowers", "garden perennials"],
+    ["galleons", "historic ships", "sailing vessels"],
+    ["robins", "songbirds", "passerines"],
+    ["malamutes", "arctic dogs", "canines"],
+    ["palms", "tropical trees", "monocots"],
+    ["carp", "cyprinid fish", "pond inhabitants"],
+    ["violets", "wildflowers", "herbaceous plants"],
+    ["hovercrafts", "amphibious vehicles", "transport craft"]
+],
+    "IE2": [
+    ["siameses", "cats", "felines"],
+    ["labradors", "dogs", "canines"],
+    ["anguses", "cows", "mammals"],
+    ["chickadees", "birds", "winged animals"],
+    ["humans", "animals", "mortals"],
+    ["sedans", "cars", "vehicles"],
+    ["cruisers", "warships", "watercrafts"],
+    ["boeings", "planes", "aircrafts"],
+    ["daisies", "flowers", "plants"],
+    ["pines", "evergreens", "trees"],
+    ["sparrows", "birds", "creatures with feathers"],
+    ["oaks", "hardwoods", "trees"],
+    ["tuna", "fish", "sea creatures"],
+    ["roses", "flowers", "garden plants"],
+    ["cargo ships", "vessels", "watercrafts"],
+    ["falcons", "raptors", "birds of prey"],
+    ["beagles", "hounds", "dogs"],
+    ["maples", "deciduous trees", "trees"],
+    ["salmons", "migratory fish", "aquatic animals"],
+    ["orchids", "exotic flowers", "plants"],
+    ["sailing yachts", "sailboats", "watercrafts"],
+    ["eagles", "birds", "predators"],
+    ["bulldogs", "canines", "pets"],
+    ["ferns", "non-flowering plants", "flora"],
+    ["trout", "freshwater fish", "vertebrates"],
+    ["lilies", "ornamental flowers", "flowers"],
+    ["frigates", "naval ships", "vessels"],
+    ["herons", "wading birds", "avian species"],
+    ["huskies", "working dogs", "canines"],
+    ["cacti", "succulents", "desert plants"],
+    ["bass", "game fish", "aquatic life"],
+    ["tulips", "spring blooms", "flowers"],
+    ["destroyers", "combat ships", "naval craft"],
+    ["owls", "nocturnal birds", "raptors"],
+    ["rottweilers", "guard dogs", "mammals"],
+    ["mosses", "bryophytes", "primitive plants"],
+    ["swordfish", "pelagic fish", "ocean dwellers"],
+    ["peonies", "perennial flowers", "ornamental plants"],
+    ["corvettes", "small warships", "military vessels"],
+    ["swallows", "migratory birds", "flying animals"],
+    ["greyhounds", "sighthounds", "dogs"],
+    ["bamboos", "grasses", "plants"],
+    ["catfish", "bottom feeders", "freshwater species"],
+    ["irises", "rhizome flowers", "garden perennials"],
+    ["galleons", "historic ships", "sailing vessels"],
+    ["robins", "songbirds", "passerines"],
+    ["malamutes", "arctic dogs", "canines"],
+    ["palms", "tropical trees", "monocots"],
+    ["carp", "cyprinid fish", "pond inhabitants"],
+    ["violets", "wildflowers", "herbaceous plants"],
+    ["hovercrafts", "amphibious vehicles", "transport craft"]
+     ],
+    "IE3": [
+    ["siameses", "cats", "felines"],
+    ["labradors", "dogs", "canines"],
+    ["anguses", "cows", "mammals"],
+    ["chickadees", "birds", "winged animals"],
+    ["humans", "animals", "mortals"],
+    ["sedans", "cars", "vehicles"],
+    ["cruisers", "warships", "watercrafts"],
+    ["boeings", "planes", "aircrafts"],
+    ["daisies", "flowers", "plants"],
+    ["pines", "evergreens", "trees"],
+    ["sparrows", "birds", "creatures with feathers"],
+    ["oaks", "hardwoods", "trees"],
+    ["tuna", "fish", "sea creatures"],
+    ["roses", "flowers", "garden plants"],
+    ["cargo ships", "vessels", "watercrafts"],
+    ["falcons", "raptors", "birds of prey"],
+    ["beagles", "hounds", "dogs"],
+    ["maples", "deciduous trees", "trees"],
+    ["salmons", "migratory fish", "aquatic animals"],
+    ["orchids", "exotic flowers", "plants"],
+    ["sailing yachts", "sailboats", "watercrafts"],
+    ["eagles", "birds", "predators"],
+    ["bulldogs", "canines", "pets"],
+    ["ferns", "non-flowering plants", "flora"],
+    ["trout", "freshwater fish", "vertebrates"],
+    ["lilies", "ornamental flowers", "flowers"],
+    ["frigates", "naval ships", "vessels"],
+    ["herons", "wading birds", "avian species"],
+    ["huskies", "working dogs", "canines"],
+    ["cacti", "succulents", "desert plants"],
+    ["bass", "game fish", "aquatic life"],
+    ["tulips", "spring blooms", "flowers"],
+    ["destroyers", "combat ships", "naval craft"],
+    ["owls", "nocturnal birds", "raptors"],
+    ["rottweilers", "guard dogs", "mammals"],
+    ["mosses", "bryophytes", "primitive plants"],
+    ["swordfish", "pelagic fish", "ocean dwellers"],
+    ["peonies", "perennial flowers", "ornamental plants"],
+    ["corvettes", "small warships", "military vessels"],
+    ["swallows", "migratory birds", "flying animals"],
+    ["greyhounds", "sighthounds", "dogs"],
+    ["bamboos", "grasses", "plants"],
+    ["catfish", "bottom feeders", "freshwater species"],
+    ["irises", "rhizome flowers", "garden perennials"],
+    ["galleons", "historic ships", "sailing vessels"],
+    ["robins", "songbirds", "passerines"],
+    ["malamutes", "arctic dogs", "canines"],
+    ["palms", "tropical trees", "monocots"],
+    ["carp", "cyprinid fish", "pond inhabitants"],
+    ["violets", "wildflowers", "herbaceous plants"],
+    ["hovercrafts", "amphibious vehicles", "transport craft"]
+],
+    "IE4": [
+    ["siameses", "felines", "cats"],
+    ["labradors", "canines", "dogs"],
+    ["anguses", "mammals", "cows"],
+    ["chickadees", "winged animals", "birds"],
+    ["humans", "mortals", "animals"],
+    ["sedans", "vehicles", "cars"],
+    ["cruisers", "watercrafts", "warships"],
+    ["boeings", "aircrafts", "planes"],
+    ["daisies", "plants", "flowers"],
+    ["pines", "trees", "evergreens"],
+    ["sparrows", "creatures with feathers", "birds"],
+    ["oaks", "trees", "hardwoods"],
+    ["tuna", "sea creatures", "fish"],
+    ["roses", "garden plants", "flowers"],
+    ["cargo ships", "watercrafts", "vessels"],
+    ["falcons", "birds of prey", "raptors"],
+    ["beagles", "dogs", "hounds"],
+    ["maples", "trees", "deciduous trees"],
+    ["salmons", "aquatic animals", "migratory fish"],
+    ["orchids", "plants", "exotic flowers"],
+    ["sailing yachts", "watercrafts", "sailboats"],
+    ["eagles", "predators", "birds"],
+    ["bulldogs", "pets", "canines"],
+    ["ferns", "flora", "non-flowering plants"],
+    ["trout", "vertebrates", "freshwater fish"],
+    ["lilies", "flowers", "ornamental flowers"],
+    ["frigates", "vessels", "naval ships"],
+    ["herons", "avian species", "wading birds"],
+    ["huskies", "canines", "working dogs"],
+    ["cacti", "desert plants", "succulents"],
+    ["bass", "aquatic life", "game fish"],
+    ["tulips", "flowers", "spring blooms"],
+    ["destroyers", "naval craft", "combat ships"],
+    ["owls", "raptors", "nocturnal birds"],
+    ["rottweilers", "mammals", "guard dogs"],
+    ["mosses", "primitive plants", "bryophytes"],
+    ["swordfish", "ocean dwellers", "pelagic fish"],
+    ["peonies", "ornamental plants", "perennial flowers"],
+    ["corvettes", "military vessels", "small warships"],
+    ["swallows", "flying animals", "migratory birds"],
+    ["greyhounds", "dogs", "sighthounds"],
+    ["bamboos", "plants", "grasses"],
+    ["catfish", "freshwater species", "bottom feeders"],
+    ["irises", "garden perennials", "rhizome flowers"],
+    ["galleons", "sailing vessels", "historic ships"],
+    ["robins", "passerines", "songbirds"],
+    ["malamutes", "canines", "arctic dogs"],
+    ["palms", "monocots", "tropical trees"],
+    ["carp", "pond inhabitants", "cyprinid fish"],
+    ["violets", "herbaceous plants", "wildflowers"],
+    ["hovercrafts", "transport craft", "amphibious vehicles"]
+],
+    "II1": [
+        [
+            "cats",
+            "dogs",
+            "siameses"
+        ],
+        [
+            "dogs",
+            "cats",
+            "labradors"
+        ],
+        [
+            "cows",
+            "birds",
+            "anguses"
+        ],
+        [
+            "birds",
+            "cows",
+            "chickadees"
+        ],
+        [
+            "animals",
+            "flowers",
+            "humans"
+        ],
+        [
+            "cars",
+            "animals",
+            "sedans"
+        ],
+        [
+            "warships",
+            "planes",
+            "cruisers"
+        ],
+        [
+            "planes",
+            "warships",
+            "boeings"
+        ],
+        [
+            "flowers",
+            "animals",
+            "daisies"
+        ],
+        [
+            "evergreens",
+            "animals",
+            "pines"
+        ]
+    ],
+    "II2": [
+        [
+            "cats",
+            "dogs",
+            "siameses"
+        ],
+        [
+            "dogs",
+            "cats",
+            "labradors"
+        ],
+        [
+            "cows",
+            "birds",
+            "anguses"
+        ],
+        [
+            "birds",
+            "cows",
+            "chickadees"
+        ],
+        [
+            "animals",
+            "flowers",
+            "humans"
+        ],
+        [
+            "cars",
+            "animals",
+            "sedans"
+        ],
+        [
+            "warships",
+            "planes",
+            "cruisers"
+        ],
+        [
+            "planes",
+            "warships",
+            "boeings"
+        ],
+        [
+            "flowers",
+            "animals",
+            "daisies"
+        ],
+        [
+            "evergreens",
+            "animals",
+            "pines"
+        ]
+    ],
+    "II3": [
+        [
+            "cats",
+            "siameses",
+            "felines"
+        ],
+        [
+            "dogs",
+            "labradors",
+            "canines"
+        ],
+        [
+            "cows",
+            "anguses",
+            "mammals"
+        ],
+        [
+            "birds",
+            "chickadees",
+            "winged animals"
+        ],
+        [
+            "animals",
+            "humans",
+            "mortals"
+        ],
+        [
+            "cars",
+            "sedans",
+            "vehicles"
+        ],
+        [
+            "warships",
+            "cruisers",
+            "watercrafts"
+        ],
+        [
+            "planes",
+            "boeings",
+            "aircrafts"
+        ],
+        [
+            "flowers",
+            "daisies",
+            "plants"
+        ],
+        [
+            "evergreens",
+            "pines",
+            "trees"
+        ]
+    ],
+    "II4": [
+        [
+            "cats",
+            "dogs",
+            "siameses"
+        ],
+        [
+            "dogs",
+            "cats",
+            "labradors"
+        ],
+        [
+            "cows",
+            "birds",
+            "anguses"
+        ],
+        [
+            "birds",
+            "cows",
+            "chickadees"
+        ],
+        [
+            "animals",
+            "flowers",
+            "humans"
+        ],
+        [
+            "cars",
+            "animals",
+            "sedans"
+        ],
+        [
+            "warships",
+            "planes",
+            "cruisers"
+        ],
+        [
+            "planes",
+            "warships",
+            "boeings"
+        ],
+        [
+            "flowers",
+            "animals",
+            "daisies"
+        ],
+        [
+            "evergreens",
+            "animals",
+            "pines"
+        ]
+    ],
+    "EA1": [
+    ["felines", "siameses", "cats"],
+    ["canines", "labradors", "dogs"],
+    ["mammals", "anguses", "cows"],
+    ["winged animals", "chickadees", "birds"],
+    ["mortals", "humans", "animals"],
+    ["vehicles", "sedans", "cars"],
+    ["watercrafts", "cruisers", "warships"],
+    ["aircrafts", "boeings", "planes"],
+    ["plants", "daisies", "flowers"],
+    ["trees", "pines", "evergreens"],
+    ["creatures with feathers", "sparrows", "birds"],
+    ["trees", "oaks", "hardwoods"],
+    ["sea creatures", "tuna", "fish"],
+    ["garden plants", "roses", "flowers"],
+    ["watercrafts", "cargo ships", "vessels"],
+    ["birds of prey", "falcons", "raptors"],
+    ["dogs", "beagles", "hounds"],
+    ["trees", "maples", "deciduous trees"],
+    ["aquatic animals", "salmons", "migratory fish"],
+    ["plants", "orchids", "exotic flowers"],
+    ["watercrafts", "sailing yachts", "sailboats"],
+    ["predators", "eagles", "birds"],
+    ["pets", "bulldogs", "canines"],
+    ["flora", "ferns", "non-flowering plants"],
+    ["vertebrates", "trout", "freshwater fish"],
+    ["flowers", "lilies", "ornamental flowers"],
+    ["vessels", "frigates", "naval ships"],
+    ["avian species", "herons", "wading birds"],
+    ["canines", "huskies", "working dogs"],
+    ["desert plants", "cacti", "succulents"],
+    ["aquatic life", "bass", "game fish"],
+    ["flowers", "tulips", "spring blooms"],
+    ["naval craft", "destroyers", "combat ships"],
+    ["raptors", "owls", "nocturnal birds"],
+    ["mammals", "rottweilers", "guard dogs"],
+    ["primitive plants", "mosses", "bryophytes"],
+    ["ocean dwellers", "swordfish", "pelagic fish"],
+    ["ornamental plants", "peonies", "perennial flowers"],
+    ["military vessels", "corvettes", "small warships"],
+    ["flying animals", "swallows", "migratory birds"],
+    ["dogs", "greyhounds", "sighthounds"],
+    ["plants", "bamboos", "grasses"],
+    ["freshwater species", "catfish", "bottom feeders"],
+    ["garden perennials", "irises", "rhizome flowers"],
+    ["sailing vessels", "galleons", "historic ships"],
+    ["passerines", "robins", "songbirds"],
+    ["canines", "malamutes", "arctic dogs"],
+    ["monocots", "palms", "tropical trees"],
+    ["pond inhabitants", "carp", "cyprinid fish"],
+    ["herbaceous plants", "violets", "wildflowers"],
+    ["transport craft", "hovercrafts", "amphibious vehicles"]
+],
+    "EA2": [
+    ["cats", "felines", "siameses"],
+    ["dogs", "canines", "labradors"],
+    ["cows", "mammals", "anguses"],
+    ["birds", "winged animals", "chickadees"],
+    ["animals", "mortals", "humans"],
+    ["cars", "vehicles", "sedans"],
+    ["warships", "watercrafts", "cruisers"],
+    ["planes", "aircrafts", "boeings"],
+    ["flowers", "plants", "daisies"],
+    ["evergreens", "trees", "pines"],
+    ["birds", "creatures with feathers", "sparrows"],
+    ["hardwoods", "trees", "oaks"],
+    ["fish", "sea creatures", "tuna"],
+    ["flowers", "garden plants", "roses"],
+    ["vessels", "watercrafts", "cargo ships"],
+    ["raptors", "birds of prey", "falcons"],
+    ["hounds", "dogs", "beagles"],
+    ["deciduous trees", "trees", "maples"],
+    ["migratory fish", "aquatic animals", "salmons"],
+    ["exotic flowers", "plants", "orchids"],
+    ["sailboats", "watercrafts", "sailing yachts"],
+    ["birds", "predators", "eagles"],
+    ["canines", "pets", "bulldogs"],
+    ["non-flowering plants", "flora", "ferns"],
+    ["freshwater fish", "vertebrates", "trout"],
+    ["ornamental flowers", "flowers", "lilies"],
+    ["naval ships", "vessels", "frigates"],
+    ["wading birds", "avian species", "herons"],
+    ["working dogs", "canines", "huskies"],
+    ["succulents", "desert plants", "cacti"],
+    ["game fish", "aquatic life", "bass"],
+    ["spring blooms", "flowers", "tulips"],
+    ["combat ships", "naval craft", "destroyers"],
+    ["nocturnal birds", "raptors", "owls"],
+    ["guard dogs", "mammals", "rottweilers"],
+    ["bryophytes", "primitive plants", "mosses"],
+    ["pelagic fish", "ocean dwellers", "swordfish"],
+    ["perennial flowers", "ornamental plants", "peonies"],
+    ["small warships", "military vessels", "corvettes"],
+    ["migratory birds", "flying animals", "swallows"],
+    ["sighthounds", "dogs", "greyhounds"],
+    ["grasses", "plants", "bamboos"],
+    ["bottom feeders", "freshwater species", "catfish"],
+    ["rhizome flowers", "garden perennials", "irises"],
+    ["historic ships", "sailing vessels", "galleons"],
+    ["songbirds", "passerines", "robins"],
+    ["arctic dogs", "canines", "malamutes"],
+    ["tropical trees", "monocots", "palms"],
+    ["cyprinid fish", "pond inhabitants", "carp"],
+    ["wildflowers", "herbaceous plants", "violets"],
+    ["amphibious vehicles", "transport craft", "hovercrafts"]
+],
+    "EA3":  [
+    ["cats", "felines", "siameses"],
+    ["dogs", "canines", "labradors"],
+    ["cows", "mammals", "anguses"],
+    ["birds", "winged animals", "chickadees"],
+    ["animals", "mortals", "humans"],
+    ["cars", "vehicles", "sedans"],
+    ["warships", "watercrafts", "cruisers"],
+    ["planes", "aircrafts", "boeings"],
+    ["flowers", "plants", "daisies"],
+    ["evergreens", "trees", "pines"],
+    ["birds", "creatures with feathers", "sparrows"],
+    ["hardwoods", "trees", "oaks"],
+    ["fish", "sea creatures", "tuna"],
+    ["flowers", "garden plants", "roses"],
+    ["vessels", "watercrafts", "cargo ships"],
+    ["raptors", "birds of prey", "falcons"],
+    ["hounds", "dogs", "beagles"],
+    ["deciduous trees", "trees", "maples"],
+    ["migratory fish", "aquatic animals", "salmons"],
+    ["exotic flowers", "plants", "orchids"],
+    ["sailboats", "watercrafts", "sailing yachts"],
+    ["birds", "predators", "eagles"],
+    ["canines", "pets", "bulldogs"],
+    ["non-flowering plants", "flora", "ferns"],
+    ["freshwater fish", "vertebrates", "trout"],
+    ["ornamental flowers", "flowers", "lilies"],
+    ["naval ships", "vessels", "frigates"],
+    ["wading birds", "avian species", "herons"],
+    ["working dogs", "canines", "huskies"],
+    ["succulents", "desert plants", "cacti"],
+    ["game fish", "aquatic life", "bass"],
+    ["spring blooms", "flowers", "tulips"],
+    ["combat ships", "naval craft", "destroyers"],
+    ["nocturnal birds", "raptors", "owls"],
+    ["guard dogs", "mammals", "rottweilers"],
+    ["bryophytes", "primitive plants", "mosses"],
+    ["pelagic fish", "ocean dwellers", "swordfish"],
+    ["perennial flowers", "ornamental plants", "peonies"],
+    ["small warships", "military vessels", "corvettes"],
+    ["migratory birds", "flying animals", "swallows"],
+    ["sighthounds", "dogs", "greyhounds"],
+    ["grasses", "plants", "bamboos"],
+    ["bottom feeders", "freshwater species", "catfish"],
+    ["rhizome flowers", "garden perennials", "irises"],
+    ["historic ships", "sailing vessels", "galleons"],
+    ["songbirds", "passerines", "robins"],
+    ["arctic dogs", "canines", "malamutes"],
+    ["tropical trees", "monocots", "palms"],
+    ["cyprinid fish", "pond inhabitants", "carp"],
+    ["wildflowers", "herbaceous plants", "violets"],
+    ["amphibious vehicles", "transport craft", "hovercrafts"]
+],
+    "EA4": [
+    ["felines", "siameses", "cats"],
+    ["canines", "labradors", "dogs"],
+    ["mammals", "anguses", "cows"],
+    ["winged animals", "chickadees", "birds"],
+    ["mortals", "humans", "animals"],
+    ["vehicles", "sedans", "cars"],
+    ["watercrafts", "cruisers", "warships"],
+    ["aircrafts", "boeings", "planes"],
+    ["plants", "daisies", "flowers"],
+    ["trees", "pines", "evergreens"],
+    ["creatures with feathers", "sparrows", "birds"],
+    ["trees", "oaks", "hardwoods"],
+    ["sea creatures", "tuna", "fish"],
+    ["garden plants", "roses", "flowers"],
+    ["watercrafts", "cargo ships", "vessels"],
+    ["birds of prey", "falcons", "raptors"],
+    ["dogs", "beagles", "hounds"],
+    ["trees", "maples", "deciduous trees"],
+    ["aquatic animals", "salmons", "migratory fish"],
+    ["plants", "orchids", "exotic flowers"],
+    ["watercrafts", "sailing yachts", "sailboats"],
+    ["predators", "eagles", "birds"],
+    ["pets", "bulldogs", "canines"],
+    ["flora", "ferns", "non-flowering plants"],
+    ["vertebrates", "trout", "freshwater fish"],
+    ["flowers", "lilies", "ornamental flowers"],
+    ["vessels", "frigates", "naval ships"],
+    ["avian species", "herons", "wading birds"],
+    ["canines", "huskies", "working dogs"],
+    ["desert plants", "cacti", "succulents"],
+    ["aquatic life", "bass", "game fish"],
+    ["flowers", "tulips", "spring blooms"],
+    ["naval craft", "destroyers", "combat ships"],
+    ["raptors", "owls", "nocturnal birds"],
+    ["mammals", "rottweilers", "guard dogs"],
+    ["primitive plants", "mosses", "bryophytes"],
+    ["ocean dwellers", "swordfish", "pelagic fish"],
+    ["ornamental plants", "peonies", "perennial flowers"],
+    ["military vessels", "corvettes", "small warships"],
+    ["flying animals", "swallows", "migratory birds"],
+    ["dogs", "greyhounds", "sighthounds"],
+    ["plants", "bamboos", "grasses"],
+    ["freshwater species", "catfish", "bottom feeders"],
+    ["garden perennials", "irises", "rhizome flowers"],
+    ["sailing vessels", "galleons", "historic ships"],
+    ["passerines", "robins", "songbirds"],
+    ["canines", "malamutes", "arctic dogs"],
+    ["monocots", "palms", "tropical trees"],
+    ["pond inhabitants", "carp", "cyprinid fish"],
+    ["herbaceous plants", "violets", "wildflowers"],
+    ["transport craft", "hovercrafts", "amphibious vehicles"]
+],
+    "EI1": [
+    ["felines", "cats", "siameses"],
+    ["canines", "dogs", "labradors"],
+    ["mammals", "cows", "anguses"],
+    ["winged animals", "birds", "chickadees"],
+    ["mortals", "animals", "humans"],
+    ["vehicles", "cars", "sedans"],
+    ["watercrafts", "warships", "cruisers"],
+    ["aircrafts", "planes", "boeings"],
+    ["plants", "flowers", "daisies"],
+    ["trees", "evergreens", "pines"],
+    ["creatures with feathers", "birds", "sparrows"],
+    ["trees", "hardwoods", "oaks"],
+    ["sea creatures", "fish", "tuna"],
+    ["garden plants", "flowers", "roses"],
+    ["watercrafts", "vessels", "cargo ships"],
+    ["birds of prey", "raptors", "falcons"],
+    ["dogs", "hounds", "beagles"],
+    ["trees", "deciduous trees", "maples"],
+    ["aquatic animals", "migratory fish", "salmons"],
+    ["plants", "exotic flowers", "orchids"],
+    ["watercrafts", "sailboats", "sailing yachts"],
+    ["predators", "birds", "eagles"],
+    ["pets", "canines", "bulldogs"],
+    ["flora", "non-flowering plants", "ferns"],
+    ["vertebrates", "freshwater fish", "trout"],
+    ["flowers", "ornamental flowers", "lilies"],
+    ["vessels", "naval ships", "frigates"],
+    ["avian species", "wading birds", "herons"],
+    ["canines", "working dogs", "huskies"],
+    ["desert plants", "succulents", "cacti"],
+    ["aquatic life", "game fish", "bass"],
+    ["flowers", "spring blooms", "tulips"],
+    ["naval craft", "combat ships", "destroyers"],
+    ["raptors", "nocturnal birds", "owls"],
+    ["mammals", "guard dogs", "rottweilers"],
+    ["primitive plants", "bryophytes", "mosses"],
+    ["ocean dwellers", "pelagic fish", "swordfish"],
+    ["ornamental plants", "perennial flowers", "peonies"],
+    ["military vessels", "small warships", "corvettes"],
+    ["flying animals", "migratory birds", "swallows"],
+    ["dogs", "sighthounds", "greyhounds"],
+    ["plants", "grasses", "bamboos"],
+    ["freshwater species", "bottom feeders", "catfish"],
+    ["garden perennials", "rhizome flowers", "irises"],
+    ["sailing vessels", "historic ships", "galleons"],
+    ["passerines", "songbirds", "robins"],
+    ["canines", "arctic dogs", "malamutes"],
+    ["monocots", "tropical trees", "palms"],
+    ["pond inhabitants", "cyprinid fish", "carp"],
+    ["herbaceous plants", "wildflowers", "violets"],
+    ["transport craft", "amphibious vehicles", "hovercrafts"]
+],
+    "EI2": [
+    ["felines", "siameses", "cats"],
+    ["canines", "labradors", "dogs"],
+    ["mammals", "anguses", "cows"],
+    ["winged animals", "chickadees", "birds"],
+    ["mortals", "humans", "animals"],
+    ["vehicles", "sedans", "cars"],
+    ["watercrafts", "cruisers", "warships"],
+    ["aircrafts", "boeings", "planes"],
+    ["plants", "daisies", "flowers"],
+    ["trees", "pines", "evergreens"],
+    ["creatures with feathers", "sparrows", "birds"],
+    ["trees", "oaks", "hardwoods"],
+    ["sea creatures", "tuna", "fish"],
+    ["garden plants", "roses", "flowers"],
+    ["watercrafts", "cargo ships", "vessels"],
+    ["birds of prey", "falcons", "raptors"],
+    ["dogs", "beagles", "hounds"],
+    ["trees", "maples", "deciduous trees"],
+    ["aquatic animals", "salmons", "migratory fish"],
+    ["plants", "orchids", "exotic flowers"],
+    ["watercrafts", "sailing yachts", "sailboats"],
+    ["predators", "eagles", "birds"],
+    ["pets", "bulldogs", "canines"],
+    ["flora", "ferns", "non-flowering plants"],
+    ["vertebrates", "trout", "freshwater fish"],
+    ["flowers", "lilies", "ornamental flowers"],
+    ["vessels", "frigates", "naval ships"],
+    ["avian species", "herons", "wading birds"],
+    ["canines", "huskies", "working dogs"],
+    ["desert plants", "cacti", "succulents"],
+    ["aquatic life", "bass", "game fish"],
+    ["flowers", "tulips", "spring blooms"],
+    ["naval craft", "destroyers", "combat ships"],
+    ["raptors", "owls", "nocturnal birds"],
+    ["mammals", "rottweilers", "guard dogs"],
+    ["primitive plants", "mosses", "bryophytes"],
+    ["ocean dwellers", "swordfish", "pelagic fish"],
+    ["ornamental plants", "peonies", "perennial flowers"],
+    ["military vessels", "corvettes", "small warships"],
+    ["flying animals", "swallows", "migratory birds"],
+    ["dogs", "greyhounds", "sighthounds"],
+    ["plants", "bamboos", "grasses"],
+    ["freshwater species", "catfish", "bottom feeders"],
+    ["garden perennials", "irises", "rhizome flowers"],
+    ["sailing vessels", "galleons", "historic ships"],
+    ["passerines", "robins", "songbirds"],
+    ["canines", "malamutes", "arctic dogs"],
+    ["monocots", "palms", "tropical trees"],
+    ["pond inhabitants", "carp", "cyprinid fish"],
+    ["herbaceous plants", "violets", "wildflowers"],
+    ["transport craft", "hovercrafts", "amphibious vehicles"]
+],
+    "EI3": [
+    ["felines", "siameses", "cats"],
+    ["canines", "labradors", "dogs"],
+    ["mammals", "anguses", "cows"],
+    ["winged animals", "chickadees", "birds"],
+    ["mortals", "humans", "animals"],
+    ["vehicles", "sedans", "cars"],
+    ["watercrafts", "cruisers", "warships"],
+    ["aircrafts", "boeings", "planes"],
+    ["plants", "daisies", "flowers"],
+    ["trees", "pines", "evergreens"],
+    ["creatures with feathers", "sparrows", "birds"],
+    ["trees", "oaks", "hardwoods"],
+    ["sea creatures", "tuna", "fish"],
+    ["garden plants", "roses", "flowers"],
+    ["watercrafts", "cargo ships", "vessels"],
+    ["birds of prey", "falcons", "raptors"],
+    ["dogs", "beagles", "hounds"],
+    ["trees", "maples", "deciduous trees"],
+    ["aquatic animals", "salmons", "migratory fish"],
+    ["plants", "orchids", "exotic flowers"],
+    ["watercrafts", "sailing yachts", "sailboats"],
+    ["predators", "eagles", "birds"],
+    ["pets", "bulldogs", "canines"],
+    ["flora", "ferns", "non-flowering plants"],
+    ["vertebrates", "trout", "freshwater fish"],
+    ["flowers", "lilies", "ornamental flowers"],
+    ["vessels", "frigates", "naval ships"],
+    ["avian species", "herons", "wading birds"],
+    ["canines", "huskies", "working dogs"],
+    ["desert plants", "cacti", "succulents"],
+    ["aquatic life", "bass", "game fish"],
+    ["flowers", "tulips", "spring blooms"],
+    ["naval craft", "destroyers", "combat ships"],
+    ["raptors", "owls", "nocturnal birds"],
+    ["mammals", "rottweilers", "guard dogs"],
+    ["primitive plants", "mosses", "bryophytes"],
+    ["ocean dwellers", "swordfish", "pelagic fish"],
+    ["ornamental plants", "peonies", "perennial flowers"],
+    ["military vessels", "corvettes", "small warships"],
+    ["flying animals", "swallows", "migratory birds"],
+    ["dogs", "greyhounds", "sighthounds"],
+    ["plants", "bamboos", "grasses"],
+    ["freshwater species", "catfish", "bottom feeders"],
+    ["garden perennials", "irises", "rhizome flowers"],
+    ["sailing vessels", "galleons", "historic ships"],
+    ["passerines", "robins", "songbirds"],
+    ["canines", "malamutes", "arctic dogs"],
+    ["monocots", "palms", "tropical trees"],
+    ["pond inhabitants", "carp", "cyprinid fish"],
+    ["herbaceous plants", "violets", "wildflowers"],
+    ["transport craft", "hovercrafts", "amphibious vehicles"]
+],
+    "EI4": [
+    ["felines", "cats", "siameses"],
+    ["canines", "dogs", "labradors"],
+    ["mammals", "cows", "anguses"],
+    ["winged animals", "birds", "chickadees"],
+    ["mortals", "animals", "humans"],
+    ["vehicles", "cars", "sedans"],
+    ["watercrafts", "warships", "cruisers"],
+    ["aircrafts", "planes", "boeings"],
+    ["plants", "flowers", "daisies"],
+    ["trees", "evergreens", "pines"],
+    ["creatures with feathers", "birds", "sparrows"],
+    ["trees", "hardwoods", "oaks"],
+    ["sea creatures", "fish", "tuna"],
+    ["garden plants", "flowers", "roses"],
+    ["watercrafts", "vessels", "cargo ships"],
+    ["birds of prey", "raptors", "falcons"],
+    ["dogs", "hounds", "beagles"],
+    ["trees", "deciduous trees", "maples"],
+    ["aquatic animals", "migratory fish", "salmons"],
+    ["plants", "exotic flowers", "orchids"],
+    ["watercrafts", "sailboats", "sailing yachts"],
+    ["predators", "birds", "eagles"],
+    ["pets", "canines", "bulldogs"],
+    ["flora", "non-flowering plants", "ferns"],
+    ["vertebrates", "freshwater fish", "trout"],
+    ["flowers", "ornamental flowers", "lilies"],
+    ["vessels", "naval ships", "frigates"],
+    ["avian species", "wading birds", "herons"],
+    ["canines", "working dogs", "huskies"],
+    ["desert plants", "succulents", "cacti"],
+    ["aquatic life", "game fish", "bass"],
+    ["flowers", "spring blooms", "tulips"],
+    ["naval craft", "combat ships", "destroyers"],
+    ["raptors", "nocturnal birds", "owls"],
+    ["mammals", "guard dogs", "rottweilers"],
+    ["primitive plants", "bryophytes", "mosses"],
+    ["ocean dwellers", "pelagic fish", "swordfish"],
+    ["ornamental plants", "perennial flowers", "peonies"],
+    ["military vessels", "small warships", "corvettes"],
+    ["flying animals", "migratory birds", "swallows"],
+    ["dogs", "sighthounds", "greyhounds"],
+    ["plants", "grasses", "bamboos"],
+    ["freshwater species", "bottom feeders", "catfish"],
+    ["garden perennials", "rhizome flowers", "irises"],
+    ["sailing vessels", "historic ships", "galleons"],
+    ["passerines", "songbirds", "robins"],
+    ["canines", "arctic dogs", "malamutes"],
+    ["monocots", "tropical trees", "palms"],
+    ["pond inhabitants", "cyprinid fish", "carp"],
+    ["herbaceous plants", "wildflowers", "violets"],
+    ["transport craft", "amphibious vehicles", "hovercrafts"]
+],
+    "EE1": [
+        [
+            "felines",
+            "cats",
+            "siameses"
+        ],
+        [
+            "canines",
+            "dogs",
+            "labradors"
+        ],
+        [
+            "mammals",
+            "cows",
+            "anguses"
+        ],
+        [
+            "winged animals",
+            "birds",
+            "chickadees"
+        ],
+        [
+            "mortals",
+            "animals",
+            "humans"
+        ],
+        [
+            "vehicles",
+            "cars",
+            "sedans"
+        ],
+        [
+            "watercrafts",
+            "warships",
+            "cruisers"
+        ],
+        [
+            "aircrafts",
+            "planes",
+            "boeings"
+        ],
+        [
+            "plants",
+            "flowers",
+            "daisies"
+        ],
+        [
+            "trees",
+            "evergreens",
+            "pines"
+        ]
+    ],
+    "EE2": [
+        [
+            "siameses",
+            "cats",
+            "felines"
+        ],
+        [
+            "labradors",
+            "dogs",
+            "canines"
+        ],
+        [
+            "anguses",
+            "cows",
+            "mammals"
+        ],
+        [
+            "chickadees",
+            "birds",
+            "winged animals"
+        ],
+        [
+            "humans",
+            "animals",
+            "mortals"
+        ],
+        [
+            "sedans",
+            "cars",
+            "vehicles"
+        ],
+        [
+            "cruisers",
+            "warships",
+            "watercrafts"
+        ],
+        [
+            "boeings",
+            "planes",
+            "aircrafts"
+        ],
+        [
+            "daisies",
+            "flowers",
+            "plants"
+        ],
+        [
+            "pines",
+            "evergreens",
+            "trees"
+        ]
+    ],
+    "EE3": [
+        [
+            "cats",
+            "siameses",
+            "felines"
+        ],
+        [
+            "dogs",
+            "labradors",
+            "canines"
+        ],
+        [
+            "cows",
+            "anguses",
+            "mammals"
+        ],
+        [
+            "birds",
+            "chickadees",
+            "winged animals"
+        ],
+        [
+            "animals",
+            "humans",
+            "mortals"
+        ],
+        [
+            "cars",
+            "sedans",
+            "vehicles"
+        ],
+        [
+            "warships",
+            "cruisers",
+            "watercrafts"
+        ],
+        [
+            "planes",
+            "boeings",
+            "aircrafts"
+        ],
+        [
+            "flowers",
+            "daisies",
+            "plants"
+        ],
+        [
+            "evergreens",
+            "pines",
+            "trees"
+        ]
+    ],
+    "EE4": [
+        [
+            "cats",
+            "felines",
+            "siameses"
+        ],
+        [
+            "dogs",
+            "canines",
+            "labradors"
+        ],
+        [
+            "cows",
+            "mammals",
+            "anguses"
+        ],
+        [
+            "birds",
+            "winged animals",
+            "chickadees"
+        ],
+        [
+            "animals",
+            "mortals",
+            "humans"
+        ],
+        [
+            "cars",
+            "vehicles",
+            "sedans"
+        ],
+        [
+            "warships",
+            "watercrafts",
+            "cruisers"
+        ],
+        [
+            "planes",
+            "aircrafts",
+            "boeings"
+        ],
+        [
+            "flowers",
+            "plants",
+            "daisies"
+        ],
+        [
+            "evergreens",
+            "trees",
+            "pines"
+        ]
+    ],
+    "OA1": [
+        [
+            "cats",
+            "felines",
+            "siameses"
+        ],
+        [
+            "dogs",
+            "canines",
+            "labradors"
+        ],
+        [
+            "cows",
+            "mammals",
+            "anguses"
+        ],
+        [
+            "birds",
+            "winged animals",
+            "chickadees"
+        ],
+        [
+            "animals",
+            "mortals",
+            "humans"
+        ],
+        [
+            "cars",
+            "vehicles",
+            "sedans"
+        ],
+        [
+            "warships",
+            "watercrafts",
+            "cruisers"
+        ],
+        [
+            "planes",
+            "aircrafts",
+            "boeings"
+        ],
+        [
+            "flowers",
+            "plants",
+            "daisies"
+        ],
+        [
+            "evergreens",
+            "trees",
+            "pines"
+        ]
+    ],
+    "OA2": [
+        [
+            "cats",
+            "felines",
+            "siameses"
+        ],
+        [
+            "dogs",
+            "canines",
+            "labradors"
+        ],
+        [
+            "cows",
+            "mammals",
+            "anguses"
+        ],
+        [
+            "birds",
+            "winged animals",
+            "chickadees"
+        ],
+        [
+            "animals",
+            "mortals",
+            "humans"
+        ],
+        [
+            "cars",
+            "vehicles",
+            "sedans"
+        ],
+        [
+            "warships",
+            "watercrafts",
+            "cruisers"
+        ],
+        [
+            "planes",
+            "aircrafts",
+            "boeings"
+        ],
+        [
+            "flowers",
+            "plants",
+            "daisies"
+        ],
+        [
+            "evergreens",
+            "trees",
+            "pines"
+        ]
+    ],
+    "OA3": [
+    ["cats", "siameses", "felines"],
+    ["dogs", "labradors", "canines"],
+    ["cows", "anguses", "mammals"],
+    ["birds", "chickadees", "winged animals"],
+    ["animals", "humans", "mortals"],
+    ["cars", "sedans", "vehicles"],
+    ["warships", "cruisers", "watercrafts"],
+    ["planes", "boeings", "aircrafts"],
+    ["flowers", "daisies", "plants"],
+    ["evergreens", "pines", "trees"],
+    ["birds", "sparrows", "creatures with feathers"],
+    ["hardwoods", "oaks", "trees"],
+    ["fish", "tuna", "sea creatures"],
+    ["flowers", "roses", "garden plants"],
+    ["vessels", "cargo ships", "watercrafts"],
+    ["raptors", "falcons", "birds of prey"],
+    ["hounds", "beagles", "dogs"],
+    ["deciduous trees", "maples", "trees"],
+    ["migratory fish", "salmons", "aquatic animals"],
+    ["exotic flowers", "orchids", "plants"],
+    ["sailboats", "sailing yachts", "watercrafts"],
+    ["birds", "eagles", "predators"],
+    ["canines", "bulldogs", "pets"],
+    ["non-flowering plants", "ferns", "flora"],
+    ["freshwater fish", "trout", "vertebrates"],
+    ["ornamental flowers", "lilies", "flowers"],
+    ["naval ships", "frigates", "vessels"],
+    ["wading birds", "herons", "avian species"],
+    ["working dogs", "huskies", "canines"],
+    ["succulents", "cacti", "desert plants"],
+    ["game fish", "bass", "aquatic life"],
+    ["spring blooms", "tulips", "flowers"],
+    ["combat ships", "destroyers", "naval craft"],
+    ["nocturnal birds", "owls", "raptors"],
+    ["guard dogs", "rottweilers", "mammals"],
+    ["bryophytes", "mosses", "primitive plants"],
+    ["pelagic fish", "swordfish", "ocean dwellers"],
+    ["perennial flowers", "peonies", "ornamental plants"],
+    ["small warships", "corvettes", "military vessels"],
+    ["migratory birds", "swallows", "flying animals"],
+    ["sighthounds", "greyhounds", "dogs"],
+    ["grasses", "bamboos", "plants"],
+    ["bottom feeders", "catfish", "freshwater species"],
+    ["rhizome flowers", "irises", "garden perennials"],
+    ["historic ships", "galleons", "sailing vessels"],
+    ["songbirds", "robins", "passerines"],
+    ["arctic dogs", "malamutes", "canines"],
+    ["tropical trees", "palms", "monocots"],
+    ["cyprinid fish", "carp", "pond inhabitants"],
+    ["wildflowers", "violets", "herbaceous plants"],
+    ["amphibious vehicles", "hovercrafts", "transport craft"]
+],
+    "OA4": [
+    ["felines", "siameses", "cats"],
+    ["canines", "labradors", "dogs"],
+    ["mammals", "anguses", "cows"],
+    ["winged animals", "chickadees", "birds"],
+    ["mortals", "humans", "animals"],
+    ["vehicles", "sedans", "cars"],
+    ["watercrafts", "cruisers", "warships"],
+    ["aircrafts", "boeings", "planes"],
+    ["plants", "daisies", "flowers"],
+    ["trees", "pines", "evergreens"],
+    ["creatures with feathers", "sparrows", "birds"],
+    ["trees", "oaks", "hardwoods"],
+    ["sea creatures", "tuna", "fish"],
+    ["garden plants", "roses", "flowers"],
+    ["watercrafts", "cargo ships", "vessels"],
+    ["birds of prey", "falcons", "raptors"],
+    ["dogs", "beagles", "hounds"],
+    ["trees", "maples", "deciduous trees"],
+    ["aquatic animals", "salmons", "migratory fish"],
+    ["plants", "orchids", "exotic flowers"],
+    ["watercrafts", "sailing yachts", "sailboats"],
+    ["predators", "eagles", "birds"],
+    ["pets", "bulldogs", "canines"],
+    ["flora", "ferns", "non-flowering plants"],
+    ["vertebrates", "trout", "freshwater fish"],
+    ["flowers", "lilies", "ornamental flowers"],
+    ["vessels", "frigates", "naval ships"],
+    ["avian species", "herons", "wading birds"],
+    ["canines", "huskies", "working dogs"],
+    ["desert plants", "cacti", "succulents"],
+    ["aquatic life", "bass", "game fish"],
+    ["flowers", "tulips", "spring blooms"],
+    ["naval craft", "destroyers", "combat ships"],
+    ["raptors", "owls", "nocturnal birds"],
+    ["mammals", "rottweilers", "guard dogs"],
+    ["primitive plants", "mosses", "bryophytes"],
+    ["ocean dwellers", "swordfish", "pelagic fish"],
+    ["ornamental plants", "peonies", "perennial flowers"],
+    ["military vessels", "corvettes", "small warships"],
+    ["flying animals", "swallows", "migratory birds"],
+    ["dogs", "greyhounds", "sighthounds"],
+    ["plants", "bamboos", "grasses"],
+    ["freshwater species", "catfish", "bottom feeders"],
+    ["garden perennials", "irises", "rhizome flowers"],
+    ["sailing vessels", "galleons", "historic ships"],
+    ["passerines", "robins", "songbirds"],
+    ["canines", "malamutes", "arctic dogs"],
+    ["monocots", "palms", "tropical trees"],
+    ["pond inhabitants", "carp", "cyprinid fish"],
+    ["herbaceous plants", "violets", "wildflowers"],
+    ["transport craft", "hovercrafts", "amphibious vehicles"]
+],
+    "OO1": [
+        [
+            "siameses",
+            "cats",
+            "felines"
+        ],
+        [
+            "labradors",
+            "dogs",
+            "canines"
+        ],
+        [
+            "anguses",
+            "cows",
+            "mammals"
+        ],
+        [
+            "chickadees",
+            "birds",
+            "winged animals"
+        ],
+        [
+            "humans",
+            "animals",
+            "mortals"
+        ],
+        [
+            "sedans",
+            "cars",
+            "vehicles"
+        ],
+        [
+            "cruisers",
+            "warships",
+            "watercrafts"
+        ],
+        [
+            "boeings",
+            "planes",
+            "aircrafts"
+        ],
+        [
+            "daisies",
+            "flowers",
+            "plants"
+        ],
+        [
+            "pines",
+            "evergreens",
+            "trees"
+        ]
+    ],
+    "OO2": [
+        [
+            "felines",
+            "cats",
+            "siameses"
+        ],
+        [
+            "canines",
+            "dogs",
+            "labradors"
+        ],
+        [
+            "mammals",
+            "cows",
+            "anguses"
+        ],
+        [
+            "winged animals",
+            "birds",
+            "chickadees"
+        ],
+        [
+            "mortals",
+            "animals",
+            "humans"
+        ],
+        [
+            "vehicles",
+            "cars",
+            "sedans"
+        ],
+        [
+            "watercrafts",
+            "warships",
+            "cruisers"
+        ],
+        [
+            "aircrafts",
+            "planes",
+            "boeings"
+        ],
+        [
+            "plants",
+            "flowers",
+            "daisies"
+        ],
+        [
+            "trees",
+            "evergreens",
+            "pines"
+        ]
+    ],
+    "OO3": [
+        [
+            "siameses",
+            "felines",
+            "cats"
+        ],
+        [
+            "labradors",
+            "canines",
+            "dogs"
+        ],
+        [
+            "anguses",
+            "mammals",
+            "cows"
+        ],
+        [
+            "chickadees",
+            "winged animals",
+            "birds"
+        ],
+        [
+            "humans",
+            "mortals",
+            "animals"
+        ],
+        [
+            "sedans",
+            "vehicles",
+            "cars"
+        ],
+        [
+            "cruisers",
+            "watercrafts",
+            "warships"
+        ],
+        [
+            "boeings",
+            "aircrafts",
+            "planes"
+        ],
+        [
+            "daisies",
+            "plants",
+            "flowers"
+        ],
+        [
+            "pines",
+            "trees",
+            "evergreens"
+        ]
+    ],
+    "OO4": [
+        [
+            "cats",
+            "siameses",
+            "felines"
+        ],
+        [
+            "dogs",
+            "labradors",
+            "canines"
+        ],
+        [
+            "cows",
+            "anguses",
+            "mammals"
+        ],
+        [
+            "birds",
+            "chickadees",
+            "winged animals"
+        ],
+        [
+            "animals",
+            "humans",
+            "mortals"
+        ],
+        [
+            "cars",
+            "sedans",
+            "vehicles"
+        ],
+        [
+            "warships",
+            "cruisers",
+            "watercrafts"
+        ],
+        [
+            "planes",
+            "boeings",
+            "aircrafts"
+        ],
+        [
+            "flowers",
+            "daisies",
+            "plants"
+        ],
+        [
+            "evergreens",
+            "pines",
+            "trees"
+        ]
+    ],
+    "EO1": [
+        [
+            "cats",
+            "siameses",
+            "felines"
+        ],
+        [
+            "dogs",
+            "labradors",
+            "canines"
+        ],
+        [
+            "cows",
+            "anguses",
+            "mammals"
+        ],
+        [
+            "birds",
+            "chickadees",
+            "winged animals"
+        ],
+        [
+            "animals",
+            "humans",
+            "mortals"
+        ],
+        [
+            "cars",
+            "sedans",
+            "vehicles"
+        ],
+        [
+            "warships",
+            "cruisers",
+            "watercrafts"
+        ],
+        [
+            "planes",
+            "boeings",
+            "aircrafts"
+        ],
+        [
+            "flowers",
+            "daisies",
+            "plants"
+        ],
+        [
+            "evergreens",
+            "pines",
+            "trees"
+        ]
+    ],
+    "EO2": [
+        [
+            "siameses",
+            "felines",
+            "cats"
+        ],
+        [
+            "labradors",
+            "canines",
+            "dogs"
+        ],
+        [
+            "anguses",
+            "mammals",
+            "cows"
+        ],
+        [
+            "chickadees",
+            "winged animals",
+            "birds"
+        ],
+        [
+            "humans",
+            "mortals",
+            "animals"
+        ],
+        [
+            "sedans",
+            "vehicles",
+            "cars"
+        ],
+        [
+            "cruisers",
+            "watercrafts",
+            "warships"
+        ],
+        [
+            "boeings",
+            "aircrafts",
+            "planes"
+        ],
+        [
+            "daisies",
+            "plants",
+            "flowers"
+        ],
+        [
+            "pines",
+            "trees",
+            "evergreens"
+        ]
+    ],
+    "EO3": [
+        [
+            "siameses",
+            "felines",
+            "cats"
+        ],
+        [
+            "labradors",
+            "canines",
+            "dogs"
+        ],
+        [
+            "anguses",
+            "mammals",
+            "cows"
+        ],
+        [
+            "chickadees",
+            "winged animals",
+            "birds"
+        ],
+        [
+            "humans",
+            "mortals",
+            "animals"
+        ],
+        [
+            "sedans",
+            "vehicles",
+            "cars"
+        ],
+        [
+            "cruisers",
+            "watercrafts",
+            "warships"
+        ],
+        [
+            "boeings",
+            "aircrafts",
+            "planes"
+        ],
+        [
+            "daisies",
+            "plants",
+            "flowers"
+        ],
+        [
+            "pines",
+            "trees",
+            "evergreens"
+        ]
+    ],
+    "EO4": [
+        [
+            "siameses",
+            "cats",
+            "felines"
+        ],
+        [
+            "labradors",
+            "dogs",
+            "canines"
+        ],
+        [
+            "anguses",
+            "cows",
+            "mammals"
+        ],
+        [
+            "chickadees",
+            "birds",
+            "winged animals"
+        ],
+        [
+            "humans",
+            "animals",
+            "mortals"
+        ],
+        [
+            "sedans",
+            "cars",
+            "vehicles"
+        ],
+        [
+            "cruisers",
+            "warships",
+            "watercrafts"
+        ],
+        [
+            "boeings",
+            "planes",
+            "aircrafts"
+        ],
+        [
+            "daisies",
+            "flowers",
+            "plants"
+        ],
+        [
+            "pines",
+            "evergreens",
+            "trees"
+        ]
+    ],
+    "OE1": [
+        [
+            "siameses",
+            "cats",
+            "felines"
+        ],
+        [
+            "labradors",
+            "dogs",
+            "canines"
+        ],
+        [
+            "anguses",
+            "cows",
+            "mammals"
+        ],
+        [
+            "chickadees",
+            "birds",
+            "winged animals"
+        ],
+        [
+            "humans",
+            "animals",
+            "mortals"
+        ],
+        [
+            "sedans",
+            "cars",
+            "vehicles"
+        ],
+        [
+            "cruisers",
+            "warships",
+            "watercrafts"
+        ],
+        [
+            "boeings",
+            "planes",
+            "aircrafts"
+        ],
+        [
+            "daisies",
+            "flowers",
+            "plants"
+        ],
+        [
+            "pines",
+            "evergreens",
+            "trees"
+        ]
+    ],
+    "OE2": [
+        [
+            "cats",
+            "siameses",
+            "felines"
+        ],
+        [
+            "dogs",
+            "labradors",
+            "canines"
+        ],
+        [
+            "cows",
+            "anguses",
+            "mammals"
+        ],
+        [
+            "birds",
+            "chickadees",
+            "winged animals"
+        ],
+        [
+            "animals",
+            "humans",
+            "mortals"
+        ],
+        [
+            "cars",
+            "sedans",
+            "vehicles"
+        ],
+        [
+            "warships",
+            "cruisers",
+            "watercrafts"
+        ],
+        [
+            "planes",
+            "boeings",
+            "aircrafts"
+        ],
+        [
+            "flowers",
+            "daisies",
+            "plants"
+        ],
+        [
+            "evergreens",
+            "pines",
+            "trees"
+        ]
+    ],
+    "OE3": [
+        [
+            "cats",
+            "felines",
+            "siameses"
+        ],
+        [
+            "dogs",
+            "canines",
+            "labradors"
+        ],
+        [
+            "cows",
+            "mammals",
+            "anguses"
+        ],
+        [
+            "birds",
+            "winged animals",
+            "chickadees"
+        ],
+        [
+            "animals",
+            "mortals",
+            "humans"
+        ],
+        [
+            "cars",
+            "vehicles",
+            "sedans"
+        ],
+        [
+            "warships",
+            "watercrafts",
+            "cruisers"
+        ],
+        [
+            "planes",
+            "aircrafts",
+            "boeings"
+        ],
+        [
+            "flowers",
+            "plants",
+            "daisies"
+        ],
+        [
+            "evergreens",
+            "trees",
+            "pines"
+        ]
+    ],
+    "OE4": [
+        [
+            "felines",
+            "cats",
+            "siameses"
+        ],
+        [
+            "canines",
+            "dogs",
+            "labradors"
+        ],
+        [
+            "mammals",
+            "cows",
+            "anguses"
+        ],
+        [
+            "winged animals",
+            "birds",
+            "chickadees"
+        ],
+        [
+            "mortals",
+            "animals",
+            "humans"
+        ],
+        [
+            "vehicles",
+            "cars",
+            "sedans"
+        ],
+        [
+            "watercrafts",
+            "warships",
+            "cruisers"
+        ],
+        [
+            "aircrafts",
+            "planes",
+            "boeings"
+        ],
+        [
+            "plants",
+            "flowers",
+            "daisies"
+        ],
+        [
+            "trees",
+            "evergreens",
+            "pines"
+        ]
+    ],
+    "OI1": [
+        [
+            "felines",
+            "cats",
+            "dogs"
+        ],
+        [
+            "canines",
+            "dogs",
+            "cows"
+        ],
+        [
+            "mammals",
+            "cows",
+            "birds"
+        ],
+        [
+            "winged animals",
+            "birds",
+            "cats"
+        ],
+        [
+            "mortals",
+            "animals",
+            "vehicles"
+        ],
+        [
+            "cars",
+            "sedans",
+            "warships"
+        ],
+        [
+            "watercrafts",
+            "warships",
+            "cars"
+        ],
+        [
+            "aircrafts",
+            "planes",
+            "warships"
+        ],
+        [
+            "plants",
+            "flowers",
+            "animals"
+        ],
+        [
+            "trees",
+            "evergreens",
+            "animals"
+        ]
+    ],
+    "OI2": [
+        [
+            "felines",
+            "cats",
+            "dogs"
+        ],
+        [
+            "canines",
+            "dogs",
+            "cows"
+        ],
+        [
+            "mammals",
+            "cows",
+            "birds"
+        ],
+        [
+            "winged animals",
+            "birds",
+            "cats"
+        ],
+        [
+            "mortals",
+            "animals",
+            "vehicles"
+        ],
+        [
+            "cars",
+            "sedans",
+            "warships"
+        ],
+        [
+            "watercrafts",
+            "warships",
+            "cars"
+        ],
+        [
+            "aircrafts",
+            "planes",
+            "warships"
+        ],
+        [
+            "plants",
+            "flowers",
+            "animals"
+        ],
+        [
+            "trees",
+            "evergreens",
+            "animals"
+        ]
+    ],
+    "OI3": [
+        [
+            "cats",
+            "felines",
+            "dogs"
+        ],
+        [
+            "dogs",
+            "canines",
+            "cows"
+        ],
+        [
+            "cows",
+            "mammals",
+            "birds"
+        ],
+        [
+            "birds",
+            "winged animals",
+            "cats"
+        ],
+        [
+            "animals",
+            "mortals",
+            "vehicles"
+        ],
+        [
+            "sedans",
+            "cars",
+            "warships"
+        ],
+        [
+            "warships",
+            "watercrafts",
+            "cars"
+        ],
+        [
+            "planes",
+            "aircrafts",
+            "warships"
+        ],
+        [
+            "flowers",
+            "plants",
+            "animals"
+        ],
+        [
+            "evergreens",
+            "trees",
+            "animals"
+        ]
+    ],
+    "OI4": [
+        [
+            "felines",
+            "cats",
+            "dogs"
+        ],
+        [
+            "canines",
+            "dogs",
+            "cows"
+        ],
+        [
+            "mammals",
+            "cows",
+            "birds"
+        ],
+        [
+            "winged animals",
+            "birds",
+            "cats"
+        ],
+        [
+            "mortals",
+            "animals",
+            "vehicles"
+        ],
+        [
+            "cars",
+            "sedans",
+            "warships"
+        ],
+        [
+            "watercrafts",
+            "warships",
+            "cars"
+        ],
+        [
+            "aircrafts",
+            "planes",
+            "warships"
+        ],
+        [
+            "plants",
+            "flowers",
+            "animals"
+        ],
+        [
+            "trees",
+            "evergreens",
+            "animals"
+        ]
+    ],
+    "IO1": [
+        [
+            "dogs",
+            "cats",
+            "felines"
+        ],
+        [
+            "cats",
+            "dogs",
+            "canines"
+        ],
+        [
+            "birds",
+            "cows",
+            "mammals"
+        ],
+        [
+            "cows",
+            "birds",
+            "winged animals"
+        ],
+        [
+            "flowers",
+            "humans",
+            "animals"
+        ],
+        [
+            "animals",
+            "cars",
+            "vehicles"
+        ],
+        [
+            "planes",
+            "warships",
+            "watercrafts"
+        ],
+        [
+            "warships",
+            "planes",
+            "aircrafts"
+        ],
+        [
+            "animals",
+            "flowers",
+            "plants"
+        ],
+        [
+            "animals",
+            "evergreens",
+            "trees"
+        ]
+    ],
+    "IO2": [
+        [
+            "dogs",
+            "felines",
+            "cats"
+        ],
+        [
+            "cats",
+            "canines",
+            "dogs"
+        ],
+        [
+            "birds",
+            "mammals",
+            "cows"
+        ],
+        [
+            "cows",
+            "winged animals",
+            "birds"
+        ],
+        [
+            "flowers",
+            "animals",
+            "humans"
+        ],
+        [
+            "animals",
+            "vehicles",
+            "cars"
+        ],
+        [
+            "planes",
+            "watercrafts",
+            "warships"
+        ],
+        [
+            "warships",
+            "aircrafts",
+            "planes"
+        ],
+        [
+            "animals",
+            "plants",
+            "flowers"
+        ],
+        [
+            "animals",
+            "trees",
+            "evergreens"
+        ]
+    ],
+    "IO3": [
+        [
+            "dogs",
+            "felines",
+            "cats"
+        ],
+        [
+            "cats",
+            "canines",
+            "dogs"
+        ],
+        [
+            "birds",
+            "mammals",
+            "cows"
+        ],
+        [
+            "cows",
+            "winged animals",
+            "birds"
+        ],
+        [
+            "flowers",
+            "animals",
+            "humans"
+        ],
+        [
+            "animals",
+            "vehicles",
+            "cars"
+        ],
+        [
+            "planes",
+            "watercrafts",
+            "warships"
+        ],
+        [
+            "warships",
+            "aircrafts",
+            "planes"
+        ],
+        [
+            "animals",
+            "plants",
+            "flowers"
+        ],
+        [
+            "animals",
+            "trees",
+            "evergreens"
+        ]
+    ],
+    "IO4": [
+        [
+            "dogs",
+            "cats",
+            "felines"
+        ],
+        [
+            "cats",
+            "dogs",
+            "canines"
+        ],
+        [
+            "birds",
+            "cows",
+            "mammals"
+        ],
+        [
+            "cows",
+            "birds",
+            "winged animals"
+        ],
+        [
+            "flowers",
+            "humans",
+            "animals"
+        ],
+        [
+            "animals",
+            "cars",
+            "vehicles"
+        ],
+        [
+            "planes",
+            "warships",
+            "watercrafts"
+        ],
+        [
+            "warships",
+            "planes",
+            "aircrafts"
+        ],
+        [
+            "animals",
+            "flowers",
+            "plants"
+        ],
+        [
+            "animals",
+            "evergreens",
+            "trees"
+        ]
+    ]
+}
