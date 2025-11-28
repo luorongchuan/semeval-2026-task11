@@ -23,21 +23,17 @@ We hypothesize that exposing models to **implausible but valid** or **plausible 
 This forces the model to learn the underlying logical structure, not surface-level semantics.
 
 ## 📁 Repository Structure
-├── Trainer-Q1-DeBerta.py             # Using DeBERTa-v3 as a zero/few-shot baseline
-├── Trainer-Q1-bart-large-mnli.py     # Fine-tuning BART-large-MNLI for Subtask 1 (English) 
-├── Trrainer-Q1-fold5.py              # 5-fold cross-validation trainer (note: typo in filename)
-│
-├── data/
-│   ├── train_data/train_data.json            # Official English training set
-│   ├── pilot data/syllogistic_reasoning_binary_pilot_en.json
-│   └── merged_data/merged_output.json        # Merged version of training + augmented data
-│
-├── data-augment/
-│   ├── vocabulary/                           # Believable/unbelievable/gibberish terms
-│   ├── schemes/                              # Syllogistic mood templates (e.g., AAA-1, EIO-3)
-│   └── Q1-aug/, Q2-aug/                      # Augmented datasets for Subtask 1 & 2
-│
-└── data/evaluation_kit/                      # Official evaluation scripts (Subtask 1–4)
+
+- `Trainer-Q1-DeBerta.py` — 使用 DeBERTa-v3 作为零样本/少样本基线
+- `Trainer-Q1-bart-large-mnli.py` — 针对子任务 1 微调 BART-large-MNLI 模型
+- `Trainer-Q1-fold5.py` — 5 折交叉验证训练器（注意：文件名有误）
+- `data/train_data/train_data.json` — 官方英语训练集
+- `data/pilot data/syllogistic_reasoning_binary_pilot_en.json` — 测试数据
+- `data/merged_data/merged_output.json` — 合并后的训练 + 增强数据
+- `data-augment/vocabulary/` — 可信/不可信/胡言乱语术语
+- `data-augment/schemes/` — 三段论语气模板（如 AAA-1, EIO-3）
+- `data-augment/Q1-aug/, Q2-aug/` — 子任务 1 和 2 的增强数据集
+- `data/evaluation_kit/` — 官方评估脚本（子任务 1–4）
 
 
 ##  How to Run
