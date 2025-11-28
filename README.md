@@ -26,9 +26,9 @@ This forces the model to learn the underlying logical structure, not surface-lev
 
 - `Trainer-Q1-DeBerta.py` — 使用 DeBERTa-v3 作为零样本/少样本基线
 - `Trainer-Q1-bart-large-mnli.py` — 针对子任务 1 微调 BART-large-MNLI 模型
-- `Trainer-Q1-fold5.py` — 5 折交叉验证训练器（注意：文件名有误）
+- `Trainer-Q1-fold5.py` — 5 折交叉验证训练代码
 - `data/train_data/train_data.json` — 官方英语训练集
-- `data/pilot data/syllogistic_reasoning_binary_pilot_en.json` — 测试数据
+- `data/pilot data/syllogistic_reasoning_binary_pilot_en.json` — 官方测试数据
 - `data/merged_data/merged_output.json` — 合并后的训练 + 增强数据
 - `data-augment/vocabulary/` — 可信/不可信/胡言乱语术语
 - `data-augment/schemes/` — 三段论语气模板（如 AAA-1, EIO-3）
