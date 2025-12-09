@@ -49,3 +49,19 @@ python  Trainer-Q1-bart-large-mnli.py   \
   --model_name microsoft/-bart-large-mnli \
   --output_dir ./results/-bart-large-mnli_q1_aug \
 
+## 🧠 新增模块：`syllogism_rlvr` —— 基于强化学习的形式推理模型
+
+我们新增了 `syllogism_rlvr` 模块，用于实现通过强化学习（RL）提升模型对三段论形式有效性的判断能力。该模块专注于解决语义合理性（plausibility）与逻辑有效性（validity）之间的混淆问题。
+syllogism_rlvr/
+├── sft_syllogism_full/      # 存放 SFT 训练完成后的模型权重文件
+├── Asda.py                  # 辅助脚本
+├── eval_syllogism.py        # 评估标准监督微调（SFT）模型的性能
+├── evaluate_rlr_model.py    # 评估经过 RL 训练的 RLR 模型效果
+├── ppo_data.py              # 构造 PPO 强化学习所需的数据格式（包括 reward 设计）
+├── rlvr.py                  # 定义 RLVR策略网络、reward 函数和训练流程
+└── sft.py                   # 执行监督微调（Supervised Fine-Tuning）的主脚本
+目前经过实验的模型准确率
+microsoft/deberta-v2-xlarge-mnli + lora 78.37%
+bart-large-mnli 92.30%
+bart-large-mnli + 五折交叉   92.11%
+mistralai/Mistral-7B-Instruct-v0.3 84%
